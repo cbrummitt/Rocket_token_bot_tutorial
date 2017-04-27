@@ -17,22 +17,24 @@ Why learn to use Rocket.Chat? It's open source, free to use, and gaining tractio
 ## :fast_forward: Key takeaways
 
 1. [Install and set up Rocket.Chat](#installing-and-setting-up-rocketchat): 
-	- [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on your smartphone :iphone: or computer :computer:
-	- Enter the server name sent to you in an email
-	- Create a username and password
+	- Either [:arrow_down: download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: or use a web browser from any device.
+	- Enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
+	- Log in using the username and password sent to you via email.
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
 1. [Create your own public channel](#create-a-public-channel-for-your-business-project) about your business idea.
 	* Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. 
 	* [:pushpin: Pin](#pushpin-pinning-messages) your most important messages so that people can quickly understand your business project and help improve it.
 1. Find other projects and try to help them with their business ideas. They may thank you with a token that could win you a prize! :money_with_wings:
 1. Reward entrepreneurs who have given the most useful comments on your business idea by [giving them tokens](#tokens). 
-1. Create public channels for general topics that you want to discuss with others, such as `#apps` and `#agriculture`. Announce the channel to everyone in `#general`.
+1. Create public channels for general topics that you want to discuss with others, such as `#apps` and `#marketing`. Announce the channel to everyone in `#general`.
 1. [Mention](#mention-someone-to-get-their-attention-wave) other users by writing `@name` to notify them. Use [emojis](#say-it-with-an-emoji-grin) to enliven your messages. :smiley: :sparkles: :tada:
 1. Confused about using Rocket.Chat? :confused: Ask for help in the channel `#rocket-help` or look for answers in the [official Rocket.Chat documentation](https://rocket.chat/docs/user-guides/).
 
 ---
 
 ## Installing and setting up Rocket.Chat
+
+You can use Rocket.Chat through an app or by simply opening a webpage in a web browser.
 
 1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want (Android, iOS, Mac, Windows, Linux).
 2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `<server-name>.rocket.chat`. Press <kbd>CONNECT</kbd>.
@@ -91,7 +93,7 @@ To see the members, tap on a channel in the list of channels to open it, and the
 
 ### Create a public channel for your business project
 
-:bangbang: **Everyone should create a public channel dedicated to their business proposal.** :bangbang:
+:bangbang: **Everyone should create a public channel dedicated to their business proposal.** 
 
 This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. 
 
@@ -124,19 +126,20 @@ An important feature is **pinning messages**. We recommend that you pin the most
 
 When people join your project channel, they can easily understand your project by reading the pinned messages without having to scroll through the entire message history :relieved:.
 
-To pin a message: 
+To pin a message:
 
-1. click on the <img src="images/gear-icon.png" alt="gear" align="center" height="20"/> icon next to the message;
-
-1. click on the pin icon <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/>
+| on a smartphone :iphone: | on a computer :computer: |
+| --- | --- |
+| 1. press and hold on a message to open a menu | 1. hover your mourse over a message and click on the <img src="images/gear-icon.png" alt="gear" align="center" height="20"/> icon next to the message |
+| 2. press "Pin Message" | 2. click on the pin icon <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> |
 
 Everyone can see the pinned messages of a channel by clicking on the <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> icon in the tool bar on the right.  
 
 ### Making your project discussion private
 
-We recommend that you keep your project channel public, at least for a while. Your ideas should reach as many fellow entrepreneurs as possible; otherwise you won’t get the chance to find valuable contributors! 
+We recommend that you keep your project channel public, but you are free to make your channels private. Your ideas should reach as many fellow entrepreneurs as possible; otherwise you won’t get the chance to find valuable contributors.
 
-After a while, you may want to continue discussion in a private group. To do so, you can either
+If you want to continue discussion in a private group, you can either
 
 1. **create a new channel that is private** by checking the box `PRIVATE GROUP` when you create the channel;
 
@@ -148,7 +151,8 @@ After a while, you may want to continue discussion in a private group. To do so,
 ## Channel operations
 
 ### Joining a channel
-Now you are ready to start! You have a username, a channel and... a business idea to share and get feedback on from fellow entrepreneurs. And you can help others with their business ideas.
+
+Now you have a channel and know how to pin messages. Awesome! There are a bunch of other entrepreneurs in your new online community who can give you feedback on your business ideas in your channel. And you can give feedback and ideas to them. Let's learn how to browse others' channels.
 
 To browse existing channels: 
 
@@ -158,7 +162,7 @@ To browse existing channels:
 
 ### :star: Favorite channels
 
-All these channels may become difficult to handle: people like chatting, and channels may proliferate! To organize and prioritize your communications, we recommend you **favorite** (or **star**) channels, private groups, and DMs. 
+All these channels may become difficult to handle: people _love_ to chat, and channels may proliferate. To organize and prioritize your communications, we recommend you **favorite** (or **star**) channels, private groups, and DMs. 
 
 To favorite a channel, click on the star icon in the upper left hand corner of the message area (next to the room name):
 
@@ -168,7 +172,7 @@ Then the star becomes yellow:
 
 <img src="images/starred-channel.png" alt="Example of a starred channel" width="143"/>
 
-Now the channel will appear under the list of **Favorites** in the left-hand:
+Nice, now the channel conveniently appear under the list of **Favorites** in the left-hand pane:
 
 <img src="images/favorites-list.png" alt="Favorite channels" width="150"/>
 
@@ -176,15 +180,17 @@ Starring helps you to focus on what's important to you.
 
 ### Hiding and leaving channels
 
-You may realize after joining a channel that you are no longer interested in it. Don't worry; it's never too late to leave a channel! There are two ways to exit:
+You may realize after joining a channel that you are no longer interested in it. Don't worry; it's easy to leave a channel. There are two ways to exit:
 
-1. You can **hide** to remove it from your list of channels. You still remain a member of the channel.
-	- :computer: On the desktop app, hover your mouse over the channel in the list of channels on the left-hand side, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button.
-	- :iphone: On the mobile app, pull from the left-hand side to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button.
+1. You can **hide** to remove it from your list of channels. You remain a member of the channel, so people can still mention your name there and notify you (more on that below).
 2. You can **leave** a channel, which will remove it from your list of channels and remove you as a member of the channel.
-	- :computer: On the desktop app, hover your mouse over the channel in the list of channels on the left-hand side, and click on the <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> button.
-	- :iphone: On the mobile app, enter the message `/leave` or `/part` in the channel. 
 
+Here's how to hide or leave a channel:
+
+| action | on a smartphone :iphone: | on a computer :computer: |
+| --- | --- | --- |
+| hide a channel | pull from the left-hand side to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button | hover your mouse over the channel in the list of channels on the left-hand side, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button |
+| leave a channel | enter the message `/leave` or `/part` in the channel | hover your mouse over the channel in the list of channels on the left-hand side, and click on the <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> button |
 
 
 ## Messaging :page_with_curl:
@@ -238,7 +244,7 @@ Discussing your business ideas with others can improve them.
 
 Giving a token to someone is a way to say
 
-> Thank you! You have really helped me with my business plan. Let's keep interacting!
+> Thank you! You have really helped me with my business plan. Let's continue this conversation!
 
 At the end of the contest, venture capitalists and other investors will evaluate business plans. They will also decide which ones they want to fund. 
 
