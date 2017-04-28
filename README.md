@@ -18,12 +18,7 @@ So it might be useful for communication among the team in the business that you'
 
 ## :fast_forward: 8 key takeaways
 
-1. You can access Rocket.Chat either in a web browser or in an app (or both). 
-	- To use the app, [download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: When you open the app, you enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
-	- To use your web browser, go to `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
-	- Log in using the username and password sent to you via email.
-
-	More details on accessing and logging in are [given below](#installing-and-setting-up-rocketchat).
+1. You can access Rocket.Chat either in a web browser or in an app (or both). Instructions are [given below](#installing-and-setting-up-rocketchat).
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
 1. [Create your own public channel](#create-a-public-channel-for-your-business-project) about your business idea.
 	* Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. 
