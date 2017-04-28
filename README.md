@@ -256,7 +256,7 @@ Discussing your business ideas with others can improve them.
 
 Giving a token to someone is a way to say
 
-> Thank you! You have really helped me with my business plan. Let's continue this conversation!
+> Thank you, you have really helped me with my business plan. Let's continue this conversation!
 
 At the end of the contest, venture capitalists and other investors will evaluate business plans. They will also decide which ones they want to fund. 
 
@@ -267,7 +267,7 @@ At the end of the contest, venture capitalists and other investors will evaluate
 
 ### Giving tokens
 
-Everyone begins with **only 5 tokens**, so give them wisely.
+Everyone gets **7 tokens** every Sunday at midnight. You have 7 days to give out those tokens before they disappear.
 
 To transfer tokens, we have created a "bot" named `@token`. This bot is a robot 🤖 who is a member of your team. This bot responds to certain commands. You can talk to `@token` in a direct message or in any public channel.
  
@@ -277,17 +277,15 @@ To give a token to `@someone`, send the message `/give @someone` in any public c
 
 The bot `@token` responds by confirming that you successfully gave a token to that user, and `@token` tells you how many tokens you have left to give. 
 
-To thank someone for significantly helping your business plan, you can give them _multiple tokens_. You can do so using multiple `/give @someone` commands. Or you can send multiple tokens all at once by writing `/give 3 @someone` or `/give all @someone`:
+To thank someone for significantly helping your business plan, you can give them _multiple tokens_. You can do so using multiple `/give @someone` commands. Or you can send multiple tokens all at once by writing `/give 3 @someone` or `/give all @someone`, like this:
 
 <img src="images/token/give_3_user.png" alt="Example of giving three tokens" width="450" >
 
-### Revoking tokens
+Remember: 
 
-Did you regret giving a token to someone? You can revoke it with the command `/revoke @someone`:
+* You get 7 tokens every Sunday at midnight :first_quarter_moon_with_face:
+* If you don't use some tokens by the following Sunday, they disappear, so be sure to give out tokens to thank people who have helped your business plan.
 
-<img src="images/token/revoke_user.png" align="center" alt="Example of revoking one token" width="450"/>
-
-You can also revoke more than one token by writing `/revoke 2 @someone`.
 
 ### Who has the most tokens?
 
