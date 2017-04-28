@@ -78,7 +78,7 @@ If you don’t upload a photo, your avatar will be your initials. That's OK too.
 
 ## Understanding channels
 
-That's enough setting up. Now let's chat! :stuck_out_tongue:
+That's enough setting up. Now let's chat!
 
 Conversations in Rocket.Chat are organized into **channels**. Channels are chat rooms with many useful features. There are three kinds of channels: 
 
