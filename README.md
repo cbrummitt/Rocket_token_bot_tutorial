@@ -54,9 +54,9 @@ We recommend you use a Rocket.Chat app on your phone or computer. Here's how to 
 
 You should now be logged into Rocket.Chat. Nice work! :thumbsup: Skip ahead to [add a profile picture](#add-a-profile-picture-man_with_turban-older_woman-japanese_ogre).
 
-### Rocket.Chat through a web browser (alternative way)
+### Rocket.Chat through a web browser (an alternative to using a Rocket.Chat app)
 
-You can also access Rocket.Chat through any web browser: Chrome, Firefox, Safari, etc.
+You can also access Rocket.Chat through any web browser such as Chrome, Firefox, or Safari.
 
 1. Open the URL that we sent to you via email. The URL will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email sent to you).
 2. Enter the **username and password** that were sent to you in an email, and click on <kbd>LOGIN</kbd>. 
@@ -64,17 +64,21 @@ You can also access Rocket.Chat through any web browser: Chrome, Firefox, Safari
 
 ### Add a profile picture :man_with_turban: :older_woman: :japanese_ogre:
 
-Add a profile picture so that others can associate a face (or a business logo) to your name:
+We suggest you add a profile picture so that others can associate a face (or a business logo) to your name. Here's how:
 
 - First open the settings:
-	- :iphone: On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu. Tap on your name on the top.
-	- :computer: On a desktop app or browser, click on your name in the top-left corner.
+	- :iphone: On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu. Tap on your name on the top; it looks like <img src="images/initials.png" alt="Name" align="center" height="20"/>
+	- :computer: On a desktop app or browser, click on your name in the top-left corner; it looks like <img src="images/initials.png" alt="Name" align="center" height="20"/>
 - Click on on <img src="images/my-account.png" alt="My Account" align="center" height="20"/>, then click on `Avatar`.
 - To upload a picture, click on `Select file` and choose a picture from your phone or computer. 
 
-If you don’t upload a photo, your default avatar will be your initials.
+Now you should see your :grinning: in the top-left corner, like this: <img src="images/avatar.png" alt="Avatar" align="center" height="20"/> :grin: :tada: 
+
+If you don’t upload a photo, your avatar will be your initials. That's OK too. :simple_smile:
 
 ## Understanding channels
+
+That's enough setting up. Now let's chat! :stuck_out_tongue:
 
 Conversations in Rocket.Chat are organized into **channels**. Channels are chat rooms with many useful features. There are three kinds of channels: 
 
@@ -84,14 +88,14 @@ Conversations in Rocket.Chat are organized into **channels**. Channels are chat 
 	- **preview** the contents of all public channels;
 	- **join** any public channel (i.e., become a member of any channel).
 
-2. **Private Groups** are closed channels. Only the members of a private group know that it exists and can see its contents. The person who creates a private group is the **owner**. The owner can 
+2. **Private Groups** are closed channels. Only the members of a private group know that it exists and can see its contents. :smirk: The person who creates a private group is the **owner**. The owner can 
 
 	* :envelope: invite people to join the private group; and
 	* :boot: kick people out of it.
 
 3. **Direct Messages** are private, 1-on-1 conversations. Think of a Direct Message as a private group with only two members.
 
-On the mobile app, swipe from left to right to see the list of channels appear on the left-hand side:
+On the mobile app, tap on the three horizontal bars in the top-left corner to see the list of channels appear on the left-hand side:
 
 <img src="images/public-channel-private-group.png" alt="Example of public channel and private group" width="200"/>
 
