@@ -22,9 +22,9 @@ So it might be useful for communication among the team in the business that you'
 
 ## :fast_forward: Key takeaways
 
-1. [Install and set up Rocket.Chat](#installing-and-setting-up-rocketchat): 
-	- Either [:arrow_down: download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: or use a web browser from any device.
-	- Enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
+1. You can access Rocket.Chat either in a web browser or in an app (or both). 
+	- To use the app, [click here to :arrow_down: download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: When you open the app, you enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
+	- To use your web browser, go to `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
 	- Log in using the username and password sent to you via email.
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
 1. [Create your own public channel](#create-a-public-channel-for-your-business-project) about your business idea.
