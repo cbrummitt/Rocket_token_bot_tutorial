@@ -6,8 +6,6 @@
 * supporting each other in your business projects :briefcase:
 * and discussing topics of common interest :iphone: :mortar_board: :satellite: :pill: :book: :factory: :taxi: :tractor: :egg: :necktie: :tropical_drink:
 
-Never used Rocket.Chat before? This tutorial will teach you how to use it. 
-
 Why learn to use Rocket.Chat? 
 
 * It's open source :unlock:
