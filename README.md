@@ -199,15 +199,10 @@ Starring helps you to focus on what's important to you.
 
 You may realize after joining a channel that you are no longer interested in it. Don't worry; it's easy to leave a channel. There are two ways to exit:
 
-1. You can **hide** to remove it from your list of channels. You remain a member of the channel, so people can still mention your name there and notify you (more on that below).
-2. You can **leave** a channel, which will remove it from your list of channels and remove you as a member of the channel.
-
-Here's how to hide or leave a channel:
-
-| action | on a smartphone :iphone: | on a computer :computer: |
-| --- | --- | --- |
-| hide a channel | pull from the left-hand side to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button | hover your mouse over the channel in the list of channels on the left-hand side, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button |
-| leave a channel | enter the message `/leave` or `/part` in the channel | hover your mouse over the channel in the list of channels on the left-hand side, and click on the <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> button |
+| action | meaning | how to do it on a smartphone :iphone: | how to do it on a computer :computer: |
+| --- | --- | --- | --- |
+| hide a channel <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> | remove it from your list, but remain a member of the channel  | tap on the three horizontal bars in the top-left corner to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> |
+| leave a channel <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> | remove it from your list and remove yourself as a member | enter the message `/leave` or `/part` in the channel | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> |
 
 
 ## Messaging :page_with_curl:
