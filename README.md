@@ -8,9 +8,15 @@
 * supporting each other in your business projects :briefcase:
 * and discussing topics of common interest :iphone: :mortar_board: :satellite: :pill: :book: :factory: :taxi: :tractor: :egg: :necktie: :tropical_drink:
 
-Never used Rocket.Chat before? Don’t worry! This tutorial will teach you how to use it. 
+Never used Rocket.Chat before? This tutorial will teach you how to use it. 
 
-Why learn to use Rocket.Chat? It's open source, free to use, and gaining traction. So it might be useful for communication among the team in the business that you're creating.
+Why learn to use Rocket.Chat? 
+
+* It's open source :unlock:
+* It's free to use :free:
+* It's gaining traction :chart_with_upwards_trend:
+
+So it might be useful for communication among the team in the business that you're creating. :wink:
 
 ---
 
