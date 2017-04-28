@@ -23,9 +23,11 @@ So it might be useful for communication among the team in the business that you'
 ## :fast_forward: Key takeaways
 
 1. You can access Rocket.Chat either in a web browser or in an app (or both). 
-	- To use the app, [click here to :arrow_down: download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: When you open the app, you enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
+	- To use the app, [:arrow_down: download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: When you open the app, you enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
 	- To use your web browser, go to `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
 	- Log in using the username and password sent to you via email.
+
+	More details on accessing and logging in are [given below](#installing-and-setting-up-rocketchat).
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
 1. [Create your own public channel](#create-a-public-channel-for-your-business-project) about your business idea.
 	* Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. 
@@ -40,18 +42,23 @@ So it might be useful for communication among the team in the business that you'
 
 ## Installing and setting up Rocket.Chat
 
-You can use Rocket.Chat through an app or by simply opening a webpage in a web browser.
+Here we explain in more detail how to access Rocket.Chat.
+
+### Rocket.Chat app (the recommended way)
+
+We recommend you use a Rocket.Chat app. Here's how to get started:
 
 1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want (Android, iOS, Mac, Windows, Linux).
 2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `<server-name>.rocket.chat`. Press <kbd>CONNECT</kbd>.
-3. Create a **username and password**:
-	* Click on <kbd>Register new account</kbd> and fill in all the required information.
-	* We suggest that your **username** be your **first name and last name separated by a dot**. For example: `Barack.Obama`. That way, people can easily find you. 
-	* When you are done, press <kbd>SUBMIT</kbd>, and you will see the homepage of the chat.
+3. Enter the **username and password** that were sent to you in an email, and press <kbd>LOGIN</kbd>. 
 
-The video below illustrates steps 2 and 3:
 
-<img src="images/registering-on-Rocket-shorter.gif" width="500" align="center"/>
+### Rocket.Chat through a web browser (alternative way)
+
+You can also access Rocket.Chat through any web browser (Chrome, Firefox, Safari, etc.).
+
+1. Open the URL that we sent to you via email. The URL will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email sent to you).
+2. Enter the **username and password** that were sent to you in an email, and click on <kbd>LOGIN</kbd>. 
 
 
 ### Add a profile picture :man_with_turban: :older_woman: :japanese_ogre:
