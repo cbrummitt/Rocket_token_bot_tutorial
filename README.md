@@ -20,7 +20,7 @@ So it might be useful for communication among the team in the business that you'
 
 ---
 
-## :fast_forward: 8 Key takeaways
+## :fast_forward: 8 key takeaways
 
 1. You can access Rocket.Chat either in a web browser or in an app (or both). 
 	- To use the app, [download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: When you open the app, you enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
@@ -52,10 +52,11 @@ We recommend you use a Rocket.Chat app on your phone or computer. Here's how to 
 2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `<server-name>.rocket.chat`. Press <kbd>CONNECT</kbd>.
 3. Enter the **username and password** that were sent to you in an email, and press <kbd>LOGIN</kbd>. 
 
+You should now be logged into Rocket.Chat. Nice work! :thumbsup: Skip ahead to [add a profile picture](#add-a-profile-picture-man_with_turban-older_woman-japanese_ogre).
 
 ### Rocket.Chat through a web browser (alternative way)
 
-You can also access Rocket.Chat through any web browser (Chrome, Firefox, Safari, etc.).
+You can also access Rocket.Chat through any web browser: Chrome, Firefox, Safari, etc.
 
 1. Open the URL that we sent to you via email. The URL will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email sent to you).
 2. Enter the **username and password** that were sent to you in an email, and click on <kbd>LOGIN</kbd>. 
@@ -65,14 +66,13 @@ You can also access Rocket.Chat through any web browser (Chrome, Firefox, Safari
 
 Add a profile picture so that others can associate a face (or a business logo) to your name:
 
-- Open up the settings:
+- First open the settings:
 	- :iphone: On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu. Tap on your name on the top.
 	- :computer: On a desktop app or browser, click on your name in the top-left corner.
 - Click on on <img src="images/my-account.png" alt="My Account" align="center" height="20"/>, then click on `Avatar`.
 - To upload a picture, click on `Select file` and choose a picture from your phone or computer. 
 
 If you don’t upload a photo, your default avatar will be your initials.
-
 
 ## Understanding channels
 
