@@ -158,11 +158,11 @@ We recommend that you keep your project channel public, but you are free to make
 
 If you want to continue discussion in a private group, you can either
 
-1. **create a new channel that is private** by checking the box `PRIVATE GROUP` when you create the channel;
+1. **create a new channel that is private** by turning on the switch labeled `Private` when you create the channel:
 
-	<img src="images/private group.PNG" alt="private group" align="center" height="40"/>
+	<img src="images/private-group-switch.PNG" alt="private group" align="center" height="40"/>
 
-2. or **convert a public channel to a private group** by opening the channel and then clicking on the <img src="images/info-icon.png" alt="information" align="center" height="20"/> icon.
+2. or **convert a public channel to a private group**. To do so, open the channel and click on the <img src="images/info-icon.png" alt="information" align="center" height="20"/> icon in the top-right corner. Now turn on the `Private` setting.
 
 
 ## Channel operations
