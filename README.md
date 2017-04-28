@@ -20,10 +20,10 @@ So it might be useful for communication among the team in the business that you'
 
 ---
 
-## :fast_forward: Key takeaways
+## :fast_forward: 8 Key takeaways
 
 1. You can access Rocket.Chat either in a web browser or in an app (or both). 
-	- To use the app, [:arrow_down: download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: When you open the app, you enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
+	- To use the app, [download the Rocket.Chat app](https://rocket.chat/download) on your smartphone :iphone: or computer :computer: When you open the app, you enter the server name sent to you in an email: it will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
 	- To use your web browser, go to `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email).
 	- Log in using the username and password sent to you via email.
 
@@ -42,11 +42,11 @@ So it might be useful for communication among the team in the business that you'
 
 ## Installing and setting up Rocket.Chat
 
-Here we explain in more detail how to access Rocket.Chat.
+Here we explain in more detail how to access your community of entrepreneurs on Rocket.Chat.
 
 ### Rocket.Chat app (the recommended way)
 
-We recommend you use a Rocket.Chat app. Here's how to get started:
+We recommend you use a Rocket.Chat app on your phone or computer. Here's how to get started:
 
 1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want (Android, iOS, Mac, Windows, Linux).
 2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `<server-name>.rocket.chat`. Press <kbd>CONNECT</kbd>.
@@ -65,13 +65,13 @@ You can also access Rocket.Chat through any web browser (Chrome, Firefox, Safari
 
 Add a profile picture so that others can associate a face (or a business logo) to your name:
 
-- On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu.
-- Tap on your username on the top.
-- Tap on `My account`.
-- Tap on `Avatar`.
+- Open up the settings:
+	- :iphone: On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu. Tap on your name on the top.
+	- :computer: On a desktop app or browser, click on your name in the top-left corner.
+- Click on on <img src="images/my-account.png" alt="My Account" align="center" height="20"/>, then click on `Avatar`.
 - To upload a picture, click on `Select file` and choose a picture from your phone or computer. 
 
-If you don’t upload a photo, your default avatar will be your initials. 
+If you don’t upload a photo, your default avatar will be your initials.
 
 
 ## Understanding channels
@@ -388,7 +388,7 @@ If you ever want to change your password, do the following:
 	- :iphone: On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu
 	- :computer: On the desktop app, make sure the window is large enough to see the list of channels on the left side; otherwise, click on the three horizontal lines in the top-left corner.
 - Click on your username
-- Click on `My account`
+- Click on <img src="images/my-account.png" alt="My Account" align="center" height="20"/>
 - Click on `Profile`
 
 
