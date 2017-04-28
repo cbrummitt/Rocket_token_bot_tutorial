@@ -1,6 +1,4 @@
-# Rocket.Chat tutorial for [The Adansonia Project](https://adansonia.net/)
-
-## Welcome! :bowtie: 
+# Welcome! :bowtie: 
 
 [Rocket.Chat](https://rocket.chat/) is a chat platform that enables you to connect with fellow entrepreneurs. It's useful for
 

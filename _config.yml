@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Rocket.Chat tutorial for the Adansonia Project
+description: How to install and use Rocket.Chat and thank others with the @token bot
 gems:
   - jemoji
