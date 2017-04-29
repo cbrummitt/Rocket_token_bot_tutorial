@@ -14,23 +14,22 @@ Why learn to use Rocket.Chat?
 
 So it might be useful for communication among the team in the business that you're creating. :wink:
 
-
-This tutorial has lots of tips. For the bare minimum to get started, you should [learn how to log in](#logging-into-rocketchat), [understand channels](#understanding-channels), and [create a public channel dedicated to your business idea](#get-feedback-on-your-business-idea).
-
 ---
 
-## :fast_forward: 8 key takeaways
+## :fast_forward: Key takeaways
 
 1. You can use Rocket.Chat in a web browser or in a [Rocket.Chat app](https://rocket.chat/download) on a smartphone or computer.
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
-1. [Create your own public channel](#create-a-public-channel-for-your-business-project) about your business idea. Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. [:pushpin: Pin](#pushpin-pinning-messages) your most important messages so that people can quickly understand your business project and help improve it.
+1. We suggest you [create your own public channel](#create-a-public-channel-for-your-business-project) to get feedback on your business idea. Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. [:pushpin: Pin](#pushpin-pinning-messages) your most important messages so that people can quickly understand your business project and help improve it.
 1. Find other projects and try to help them with their business ideas. They may thank you with a token that could win you a prize! :money_with_wings:
 1. Reward entrepreneurs who have given the most useful comments on your business idea by [giving them tokens](#tokens). 
 1. Create public channels for general topics that you want to discuss with others, such as `#apps` and `#marketing`. Announce the channel to everyone in `#general`.
-1. [Mention](#mention-someone-to-get-their-attention-wave) other users by writing `@name` to notify them. Use [emojis](#say-it-with-an-emoji-grin) to enliven your messages. :smiley: :sparkles: :tada:
+1. [Mention](#mention-someone-to-get-their-attention-wave) other users by writing `@name` to notify them. Use [emojis](#say-it-with-an-emoji-grin). :smiley: :sparkles: :tada:
 1. Confused about using Rocket.Chat? Ask for help in the channel `#rocket-help` or look for answers in the [official Rocket.Chat documentation](https://rocket.chat/docs/user-guides/).
 
 ---
+
+For the bare minimum to get started, you should [learn how to log in](#logging-into-rocketchat), [understand channels](#understanding-channels), and [create a public channel dedicated to your business idea](#get-feedback-on-your-business-idea).
 
 ## Logging into Rocket.Chat
 
@@ -41,7 +40,7 @@ You can access Rocket.Chat through an app or in any web browser (Chrome, Firefox
 We recommend you use a Rocket.Chat app on your phone or computer, so that it's easy to access it and to get notifications. To get started:
 
 1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want (Android, iOS, Mac, Windows, Linux).
-2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `<server-name>.rocket.chat` but with `<server-name>` replaced by a word; look for that word in the email we sent you. Press <kbd>CONNECT</kbd>.
+2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `server-name.rocket.chat` but with `server-name` replaced by a word; look for that word in the email we sent you. Press <kbd>CONNECT</kbd>.
 3. Enter the **username and password** that were sent to you in an email, and press <kbd>LOGIN</kbd>. 
 
 You should now be logged into Rocket.Chat. Nice work! :thumbsup: Skip ahead to [add a profile picture](#add-a-profile-picture-man_with_turban-older_woman-japanese_ogre).
@@ -90,7 +89,7 @@ Conversations in Rocket.Chat are organized into **channels**. Channels are chat 
 
 ### Open the list of channels
 
-The list of channels is on the left-side. On a small screen :iphone: you may need to tap on the 3 horizontal bars in the top-left corner to see the menu and list of channels. Like this:
+The list of channels is on the left-side. On a small screen :iphone: you may need to tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> in the top-left corner to see the menu and list of channels. Like this:
 
 <img src="images/open-list-of-channels.gif" alt="Open the list of channels on a small screen" width="300"/>
 
@@ -103,8 +102,9 @@ Public channels have a `#` next to them. Private groups are marked by a :lock: D
 
 ### Each channel has a list of _members_
 
-Everyone is a member of the `#general` channel. Other channels typically have fewer people in them. To see who is a member of a channel, open the channel by tapping on it in the list of channels on the left, and then tap on the <img src="images/members.png" alt="members" align="center" height="20"/> icon on the right-hand side.
+Everyone is a member of the `#general` channel. Other channels typically have fewer people in them. To see who is a member of a channel, open the channel by tapping on it in the list of channels on the left, and then tap on the <img src="images/members.png" alt="members" align="center" height="20"/> icon on the right-hand side. The list of members has green dots next to everyone who is on Rocket.Chat at that moment:
 
+<img src="images/list-of-members.png" alt="Example list of members" width="400"/>
 
 
 ## Get feedback on your business idea
@@ -113,7 +113,7 @@ Everyone is a member of the `#general` channel. Other channels typically have fe
 
 This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. 
 
-1. First [open the list of channels](#open-the-list-of-channels). (On a small screen, you must tap on the three horizontal bars to bring up the menu on the left.)
+1. First [open the list of channels](#open-the-list-of-channels). (On a small screen, you must tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> to bring up the menu on the left.)
 - Click on the <img src="images/plus rocket.PNG" align="center" alt="plus" height="20"/> next to the search box: <img src="images/plus-button.png" align="center" alt="Plus sign to the right of the search box" height="25"/>
 - **Choose a channel name** that 
 	- begins with `p-` so that it is easy to identify channels dedicated to **p**rojects;
@@ -188,35 +188,23 @@ We recommend that you keep your project channel **public**: your ideas should re
 
 ## Giving feedback to other people's business ideas
 
-So far, you've learned to [see the list of channels you belong to](#open-the-list-of-channels), to [create your own channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to invite others to it.
+So far, you've learned to [see the list of channels you belong to](#open-the-list-of-channels), to [create your own channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to [invite others to it](#invite-people-to-your-channel). Now we'll learn to give feedback to others. This is rewarding in itself, and they may [thank you with tokens](#tokens) that could win you a trip to Milan.
 
 ### Joining a channel
 
-Now you have a channel and know how to pin messages. Awesome! There are a bunch of other entrepreneurs in your new online community who can give you feedback on your business ideas in your channel. And you can give feedback and ideas to them. Let's learn how to browse others' channels.
+When you [look at the list of channels on the left-hand side](#open-the-list-of-channels), you only see the channels you are a [member of](#open-the-list-of-channels). There may be other channels you do not yet know about. To browse channels you are not a member of: 
 
-To browse existing channels: 
-
-- click on the <img src="images/More channels.png" alt="More channels..." align="center" height="20"/> button on the left-hand pane;
+- click on the <img src="images/More channels.png" alt="More channels..." align="center" height="20"/> button in the left-hand pane (where you [see the list of channels you belong to](#open-the-list-of-channels));
 - click on the name of a channel to preview its discussion;
 - if you find an interesting channel, join it by clicking on the <img src="images/JOIN.png" alt="JOIN" align="center" height="20"/> button.
 
 ### :star: Favorite channels
 
-All these channels may become difficult to handle: people _love_ to chat, and channels may proliferate. To organize and prioritize your communications, we recommend you **favorite** (or **star**) channels, private groups, and DMs. 
+You may join a lot of channels. To organize them, we recommend you **favorite** (or **star**) channels, private groups, and DMs. 
 
-To favorite a channel, click on the star icon in the upper left hand corner of the message area (next to the room name):
+To favorite a channel, click on the star icon in the upper left hand corner of the message area (next to the room name). It looks like this: <img src="images/unstarred-channel.png" align="center" alt="Example of an unstarred channel" height="18"/>  Then the star becomes yellow: <img src="images/starred-channel.png" alt="Example of a starred channel" align="center" height="18"/> Nice, now the channel conveniently appear under the list of **Favorites** in the left-hand pane:
 
-<img src="images/unstarred-channel.png" alt="Example of an unstarred channel" width="150"/>
-
-Then the star becomes yellow:
-
-<img src="images/starred-channel.png" alt="Example of a starred channel" width="143"/>
-
-Nice, now the channel conveniently appear under the list of **Favorites** in the left-hand pane:
-
-<img src="images/favorites-list.png" alt="Favorite channels" width="150"/>
-
-Starring helps you to focus on what's important to you.
+<img src="images/favorites-list.png" alt="Favorite channels" width="130"/>
 
 ### Hiding and leaving channels
 
@@ -224,8 +212,8 @@ You may realize after joining a channel that you are no longer interested in it.
 
 | action | meaning | how to do it on a smartphone :iphone: | how to do it on a computer :computer: |
 | --- | --- | --- | --- |
-| hide a channel <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> | remove it from your list, but remain a member of the channel  | tap on the three horizontal bars in the top-left corner to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> |
-| leave a channel <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> | remove it from your list and remove yourself as a member | enter the message `/leave` or `/part` in the channel | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> |
+| **hide** a channel <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> | remove it from your list, but remain a member of the channel  | tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> in the top-left corner to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> |
+| **leave** a channel <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> | remove it from your list and remove yourself as a member | enter the message `/leave` or `/part` in the channel | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> |
 
 
 ## Messaging :page_with_curl:
@@ -269,64 +257,76 @@ Then choose an emoji from the emoji picker, and the emoji appears below the mess
 
 <img src="images/emoji-reaction-result.png" align="center" alt="Example of an emoji reaction" height="75"/>
 
-To remove an emoji reaction, click on the emoji below the message. To reiterate an existing emoji reaction that someone else posted, click on that emoji to add to that emoji's counter.
+To remove an emoji reaction, click on the emoji below the message. To add to an existing emoji reaction that someone else already posted, click on that emoji to add to that emoji's counter.
 
 ## Tokens
 
-Discussing your business ideas with others can improve them. 
+:bangbang: **To acknowledge other entrepreneurs for their ideas and contributions, thank them by giving them a _token_.** Giving a token to someone is a way to say
 
-:bangbang: **To acknowledge other entrepreneurs for their ideas and contributions, thank them by giving them a _token_**. :bangbang:
+> Thank you, you have really helped me with my business plan. Let's keep this conversation going!
 
-Giving a token to someone is a way to say
+At the end of the contest, venture capitalists and other investors will evaluate business plans. They will also decide which ones they want to fund. **If you hold a token given by someone whose business plan was highly rated by the investors, then that token is a lottery ticket :ticket: for a prize:** 
 
-> Thank you, you have really helped me with my business plan. Let's continue this conversation!
-
-At the end of the contest, venture capitalists and other investors will evaluate business plans. They will also decide which ones they want to fund. 
-
-**If you hold a token given by someone whose business plan was highly rated by the investors, then that token is a lottery ticket :ticket: for a prize:** 
-
-- :airplane: :school: :briefcase: :city_sunrise: The prize is an all-expenses-paid trip to Milan :it: for a business training course at the [Business School of Bocconi University](http://www.unibocconi.eu/), one of the best business schools in Europe. The cost of this intensive course, lodging, and travel will be fully covered. There may also be an opportunity to pitch to investors in Milan. 
+- :airplane: :school: :briefcase: :city_sunrise: The prize is an all-expenses-paid trip to Milan :it: for a business training course at the [Business School of Bocconi University](http://www.unibocconi.eu/), one of the best business schools in Europe. The cost of this intensive course, lodging, and travel will be fully covered. There will also be an opportunity to pitch to investors in Milan. 
 - **The more you help others with their projects, the more tokens you will be given, and the more chances you have at winning this prize.**
 
 ### Giving tokens
 
 Everyone gets **7 tokens** every Sunday at midnight. You have 7 days to give out those tokens before they disappear.
 
-To transfer tokens, we have created a "bot" named `@token`. This bot is a robot 🤖 who is a member of your team. This bot responds to certain commands. You can talk to `@token` in a direct message or in any public channel.
+To track the transfer tokens, we created a "bot" named `@token`. This bot is a robot 🤖 who is a member of your team. This bot responds to certain commands. You can talk to `@token` in a direct message or in any public channel.
  
-To give a token to `@someone`, send the message `/give @someone` in any public channel or in a direct message to `@token`:
+To give a token to `@someone`, send the message
+
+```
+/give @barack.obama
+```
+
+in any public channel or in a direct message to `@token`. (Replace `barack.obama` with the username of the person you want to thank.) Here is an example:
 
 <img src="images/token/give_user.png" alt="Example of giving one token" width="450" >
 
-The bot `@token` responds by confirming that you successfully gave a token to that user, and `@token` tells you how many tokens you have left to give. 
+Notice that the bot `@token` responds by confirming that a token was successfully given to `@fernando.vega-redondo`. `@token` also reports how many tokens `@charlie` has left to give before they disappear the next Sunday at midnight. 
 
-To thank someone for significantly helping your business plan, you can give them _multiple tokens_. You can do so using multiple `/give @someone` commands. Or you can send multiple tokens all at once by writing `/give 3 @someone` or `/give all @someone`, like this:
+To thank someone for significantly helping your business plan, you can give them _multiple tokens_. You can do so using multiple `/give @username` commands. Or you can send multiple tokens all at once by writing `/give 3 @someone` or `/give all @someone`, like this:
 
 <img src="images/token/give_3_user.png" alt="Example of giving three tokens" width="450" >
 
 Remember: 
 
 * You get 7 tokens every Sunday at midnight :first_quarter_moon_with_face:
-* If you don't use some tokens by the following Sunday, they disappear, so be sure to give out tokens to thank people who have helped your business plan.
+* If you don't use some tokens by the following Sunday, they disappear, so be sure to give tokens to thank people who have helped your business plan.
 
+### _Who has been thanked the most?_
 
-### Who has the most tokens?
-
-To find out who currently has the most tokens (given to them by other people), send the message `/leaderboard` in a public channel or in a direct message with the `@token` bot. Then the `@token` bot responds to you in a direct message with the ranking:
+To find out, send the message 
+```/leaderboard
+```
+in a public channel or in a direct message with the `@token` bot. Then the `@token` bot responds to you in a direct message:
 
 <img src="images/token/leaderboard.png" align="center" alt="leaderboard" height="325"/>
 
-### Status of my tokens
+In this example, `@charlie` has been thanked the most: 8 people have given him a token so far. Nice work!
 
-If you don't remember how many tokens you have, send the message `/status` in a public channel or in a direct message to the `@token` bot. Then the bot sends you a direct message that summarizes the tokens you have left to give, have given, and have received:
+### _How many tokens do I have left to give?_
+
+To find out, send the message 
+
+```
+/status
+```
+
+in a public channel or in a direct message to the `@token` bot. Then the bot sends you a direct message that summarizes the number of tokens you have left to give, whom you have thanked with tokens, and who has thanked you with tokens.
+
+Here is an example:
 
 <img src="images/token/status.png" align="center" alt="tokens status" width="450"/>
 
 ### Learn more about interacting with the `@token` bot
 
-More details on how to send, receive, and check the status of tokens is available in [this token-bot user guide](https://github.com/cbrummitt/token-bot/wiki/@token-bot-cheat-sheet).
+More details on how to send, receive, and check the status of tokens is available in [this token-bot user guide](https://github.com/cbrummitt/token-allowance-bot/wiki/@token-bot-cheat-sheet).
 
-## Advanced topics
+## Advanced Rocket.Chat skills
 
 ### :mag: Search messages
 
@@ -336,7 +336,7 @@ Rocket.Chat allows you to search within channels for messages that you want to s
 
 In addition to 
 
-- choosing a [descriptive name for your project's channel](#create-a-public-channel-for-your-business-project) and
+- choosing a [descriptive name for your project's channel](#get-feedback-on-your-business-idea) and
 - [pinning important messages](#pushpin-pinning-messages) that summarize your project
 
 you can help users understand your project by setting a **topic** for your project channel. A topic is a small amount of text that appears in small, gray font next to your channel name: 
