@@ -2,8 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
+
 .page-header {
-  color: #fff;
+  color: $header-heading-color;
   text-align: center;
-  background-color: #159957;
-  background-image: url("../images/night-stars-crop.jpg"); }
+  background-color: $header-bg-color;
+  background-image: url("../images/night-stars-crop.jpg");
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
