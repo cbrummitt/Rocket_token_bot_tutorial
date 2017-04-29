@@ -69,25 +69,31 @@ If you don’t upload a photo, your avatar will be your initials. That's OK too.
 
 ## Understanding channels
 
-Nice work logging into Rocket.Chat :clap: Now let's chat! : speech_balloon:
+Nice work logging into Rocket.Chat :clap: Now let's chat! :speech_balloon:
 
 Conversations in Rocket.Chat are organized into **channels**. Channels are chat rooms with many useful features. There are three kinds of channels: 
 
-1. **Public channels** are open spaces for discussion. Think of a conversation in a public channel as a conversation you would have at a market, city square, or cafe. Everyone is free to join the conversation. Specifically, everyone can 
+### 1. **Public channels** are open spaces for discussion
+
+Think of a conversation in a public channel as a conversation you would have at a market, city square, or cafe. Everyone is free to join the conversation. Specifically, everyone can 
 
 	- **see** all public channels;
 	- **preview** the contents of all public channels;
 	- **join** any public channel.
 
-2. **Private Groups**, by contrast, are closed channels. Think of it as your secret place to talk with close confidants :smirk: Only the members of a private group know that it exists and can see its contents. The person who creates a private group is the **owner**. The owner can 
+### 2. **Private Groups** are closed channels
+
+Think of it as your secret place to talk with close confidants :smirk: Only the members of a private group know that it exists and can see its contents. The person who creates a private group is the **owner**. The owner can 
 
 	* :envelope: invite people to join the private group; and
 	* :boot::arrow_heading_up: kick people out of it.
 
-3. **Direct Messages** are private, 1-on-1 conversations. Think of a Direct Message as a private group with only two members: it is a secret conversation between you and one other person.
+### 3. **Direct Messages** are private, 1-on-1 conversations
+
+Think of a Direct Message as a private group with only two members: it is a secret conversation between you and one other person.
 
 
-### Open the list of channels
+### How to see the list of channels that you belong to
 
 The list of channels is on the left-side. On a small screen (such as a :iphone:) you may need to tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> in the top-left corner to see the menu and list of channels. Like this:
 
@@ -100,7 +106,7 @@ Public channels have a `#` next to them. Private groups are marked by a :lock: D
 <img src="images/DM-example.png" alt="Example of a direct message" width="200"/>
 
 
-### Each channel has a list of _members_
+### Each channel has a list of **members**
 
 Everyone is a member of the `#general` channel. Other channels typically have fewer people in them. To see who is a member of a channel, open the channel by tapping on it in the list of channels on the left, and then tap on the <img src="images/members.png" alt="members" align="center" height="20"/> icon on the right-hand side. The list of members has green dots next to everyone who is on Rocket.Chat at that moment:
 
@@ -111,20 +117,18 @@ Everyone is a member of the `#general` channel. Other channels typically have fe
 
 ### :bangbang: Everyone should create a public channel dedicated to their business proposal
 
-This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. They may give you useful ideas :bulb::bulb::bulb: To create your own public channel:
+This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. They may give you useful ideas :bulb::bulb::bulb: 
 
-1. First [open the list of channels](#open-the-list-of-channels). (On a small screen, you must tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> to bring up the menu on the left.)
-- Click on the <img src="images/plus rocket.PNG" align="center" alt="plus" height="20"/> next to the search box: <img src="images/plus-button.png" align="center" alt="Plus sign to the right of the search box" height="25"/>
-- **Choose a channel name** that 
-	- begins with `p-` so that it is easy to identify channels dedicated to **p**rojects;
-	- ends with a description of the project, with words separated by hyphens `-` or by underscores `_`.
-	
-	For example: `p-urban-farm` or `p-taxi_app` or `p-reusable_rocket_for_space_tourism`.
-- When you are done, press <img src="images/create-button.png" alt="the CREATE button" align="center" height="20"/>. Now your project channel is ready! :tada: 
+To create your own public channel:
+
+1. First [open the list of channels](#how-to-see-the-list-of-channels-that-you-belong-to). (On a small screen, you must tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> to bring up the menu on the left.)
+1. Click on the <img src="images/plus rocket.PNG" align="center" alt="plus" height="20"/> next to the search box: <img src="images/plus-button.png" align="center" alt="Plus sign to the right of the search box" height="25"/>
+1. **Choose a channel name** that begins with `p-` so that it is easy to identify channels dedicated to **p**rojects. The rest of the channel's name should describe your business idea, with words separated by hyphens `-` or by underscores `_`. For example: `p-urban-farm` or `p-taxi_app` or `p-reusable_rocket_for_space_tourism`.
+1. When you are done, press <img src="images/create-button.png" alt="the CREATE button" align="center" height="20"/>. Now your project channel is ready! :tada: 
 
 ![Create a project channel](images/create-project-channel-loop.gif)
 
-**Announce your channel** by writing a message in the public channel `#general`. Everyone is a member of `#general`. Refer to your project channel with a `#` at the beginning (such as `#p-urban-farm`) so that a link to your channel is automatically created. Like this:
+**Announce your channel** by writing a message in the public channel `#general`. (Remember, everyone is [a member of](#each-channel-has-a-list-of-members) `#general`.) Refer to your project channel with a `#` at the beginning (such as `#p-urban-farm`) so that a link to your channel is automatically created. Like this:
 
 ![Announce a new project channel](images/announce-new-project-channel-loop.gif)
 
@@ -156,7 +160,7 @@ in your project channel. Like this:
 
 ![Invite others to a channel](images/invite-all-from.gif)
 
-:boom: Now everyone is a member of your channel and is ready to listen about your ideas. :eyes: :ear: :speech_balloon: :grinning:
+:boom: Now everyone is a member of your channel and is ready to give you feedback about your business idea. :speech_balloon: :grinning:
 
 ### :pushpin: Pinning messages
 An important feature is **pinning messages**. We recommend that you pin the most important messages in your project channel, such as:
@@ -188,13 +192,13 @@ We recommend that you keep your project channel **public**: your ideas should re
 
 ## Giving feedback to other people's business ideas
 
-So far, you've learned to [see the list of channels you belong to](#open-the-list-of-channels), to [create your own channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to [invite others to it](#invite-people-to-your-channel). Now we'll learn to give feedback to others. This is rewarding in itself, and they may [thank you with tokens](#tokens) that could win you a trip to Milan.
+So far, you've learned to [see the list of channels you belong to](#how-to-see-the-list-of-channels-that-you-belong-to), to [create your own channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to [invite others to it](#invite-people-to-your-channel). Now we'll learn to give feedback to others. This is rewarding in itself, and they may [thank you with tokens](#tokens) that could win you a trip to Milan.
 
 ### Joining a channel
 
-When you [look at the list of channels on the left-hand side](#open-the-list-of-channels), you only see the channels you are a [member of](#open-the-list-of-channels). There may be other channels you do not yet know about. To browse channels you are not a member of: 
+When you [look at the list of channels on the left-hand side](#how-to-see-the-list-of-channels-that-you-belong-to), you only see the channels you are a [member of](#how-to-see-the-list-of-channels-that-you-belong-to). There may be other channels you do not yet know about. To browse channels you are not a member of: 
 
-- click on the <img src="images/More channels.png" alt="More channels..." align="center" height="20"/> button in the left-hand pane (where you [see the list of channels you belong to](#open-the-list-of-channels));
+- click on the <img src="images/More channels.png" alt="More channels..." align="center" height="20"/> button in the left-hand pane (where you [see the list of channels you belong to](#how-to-see-the-list-of-channels-that-you-belong-to));
 - click on the name of a channel to preview its discussion;
 - if you find an interesting channel, join it by clicking on the <img src="images/JOIN.png" alt="JOIN" align="center" height="20"/> button.
 
