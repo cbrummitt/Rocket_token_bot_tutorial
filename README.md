@@ -14,42 +14,43 @@ Why learn to use Rocket.Chat?
 
 So it might be useful for communication among the team in the business that you're creating. :wink:
 
+
+This tutorial has lots of tips. For the bare minimum to get started, you should [learn how to log in](#logging-into-Rocket.Chat), [understand channels](#understanding-channels), and [create a public channel dedicated to your business idea](#get-feedback-on-your-business-idea).
+
 ---
 
 ## :fast_forward: 8 key takeaways
 
-1. You can access Rocket.Chat either in a web browser or in an app (or both). Instructions for logging in and installing apps are [given below](#installing-and-setting-up-rocketchat).
+1. You can use Rocket.Chat in a web browser or in a [Rocket.Chat app](https://rocket.chat/download) on a smartphone or computer.
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
-1. [Create your own public channel](#create-a-public-channel-for-your-business-project) about your business idea.
-	* Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. 
-	* [:pushpin: Pin](#pushpin-pinning-messages) your most important messages so that people can quickly understand your business project and help improve it.
+1. [Create your own public channel](#create-a-public-channel-for-your-business-project) about your business idea. Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. [:pushpin: Pin](#pushpin-pinning-messages) your most important messages so that people can quickly understand your business project and help improve it.
 1. Find other projects and try to help them with their business ideas. They may thank you with a token that could win you a prize! :money_with_wings:
 1. Reward entrepreneurs who have given the most useful comments on your business idea by [giving them tokens](#tokens). 
 1. Create public channels for general topics that you want to discuss with others, such as `#apps` and `#marketing`. Announce the channel to everyone in `#general`.
 1. [Mention](#mention-someone-to-get-their-attention-wave) other users by writing `@name` to notify them. Use [emojis](#say-it-with-an-emoji-grin) to enliven your messages. :smiley: :sparkles: :tada:
-1. Confused about using Rocket.Chat? :confused: Ask for help in the channel `#rocket-help` or look for answers in the [official Rocket.Chat documentation](https://rocket.chat/docs/user-guides/).
+1. Confused about using Rocket.Chat? Ask for help in the channel `#rocket-help` or look for answers in the [official Rocket.Chat documentation](https://rocket.chat/docs/user-guides/).
 
 ---
 
-## Installing and setting up Rocket.Chat
+## Logging into Rocket.Chat
 
-Here we explain in more detail how to access your community of entrepreneurs on Rocket.Chat.
+You can access Rocket.Chat through an app or in any web browser (Chrome, Firefox, Safari, etc.).
 
-### Rocket.Chat app (the recommended way)
+### Rocket.Chat app :iphone: :computer: :rocket: :stars: 
 
-We recommend you use a Rocket.Chat app on your phone or computer. Here's how to get started:
+We recommend you use a Rocket.Chat app on your phone or computer, so that it's easy to access it and to get notifications. To get started:
 
 1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want (Android, iOS, Mac, Windows, Linux).
-2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `<server-name>.rocket.chat`. Press <kbd>CONNECT</kbd>.
+2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `<server-name>.rocket.chat` but with `<server-name>` replaced by a word; look for that word in the email we sent you. Press <kbd>CONNECT</kbd>.
 3. Enter the **username and password** that were sent to you in an email, and press <kbd>LOGIN</kbd>. 
 
 You should now be logged into Rocket.Chat. Nice work! :thumbsup: Skip ahead to [add a profile picture](#add-a-profile-picture-man_with_turban-older_woman-japanese_ogre).
 
-### Rocket.Chat through a web browser (an alternative to using a Rocket.Chat app)
+### Rocket.Chat through a web browser 
 
-You can also access Rocket.Chat through any web browser such as Chrome, Firefox, or Safari.
+To access Rocket.Chat through any web browser (such as Chrome, Firefox, or Safari):
 
-1. Open the URL that we sent to you via email. The URL will look like `https://example.rocket.chat` but with `example` replaced by another word (look for that word in the email sent to you).
+1. Open in a web browser the URL that we sent to you via email. The URL will look like `https://example.rocket.chat` but with `example` replaced by another word; look for that word in the email sent to you.
 2. Enter the **username and password** that were sent to you in an email, and click on <kbd>LOGIN</kbd>. 
 
 
@@ -69,72 +70,103 @@ If you don’t upload a photo, your avatar will be your initials. That's OK too.
 
 ## Understanding channels
 
-That's enough setting up. Now let's chat!
+Nice work logging into Rocket.Chat :clap: Now let's chat! :speech_bubble:
 
 Conversations in Rocket.Chat are organized into **channels**. Channels are chat rooms with many useful features. There are three kinds of channels: 
 
-1. **Public channels** are open spaces for discussion. Conversations in public channels are like those you have at a market or a city square. Everyone can 
+1. **Public channels** are open spaces for discussion. Think of a conversation in a public channel as a conversation you would have at a market, city square, or cafe. Everyone is free to join the conversation. Specifically, everyone can 
 
 	- **see** all public channels;
 	- **preview** the contents of all public channels;
-	- **join** any public channel (i.e., become a member of any channel).
+	- **join** any public channel.
 
-2. **Private Groups** are closed channels. Only the members of a private group know that it exists and can see its contents. :smirk: The person who creates a private group is the **owner**. The owner can 
+2. **Private Groups**, by contrast, are closed channels. Think of it as your secret place to talk with close confidants :smirk: Only the members of a private group know that it exists and can see its contents. The person who creates a private group is the **owner**. The owner can 
 
 	* :envelope: invite people to join the private group; and
-	* :boot: kick people out of it.
+	* :boot::arrow_heading_up: kick people out of it.
 
-3. **Direct Messages** are private, 1-on-1 conversations. Think of a Direct Message as a private group with only two members.
+3. **Direct Messages** are private, 1-on-1 conversations. Think of a Direct Message as a private group with only two members: it is a secret conversation between you and one other person.
 
-On the mobile app, tap on the three horizontal bars in the top-left corner to see the list of channels appear on the left-hand side:
+
+### Open the list of channels
+
+The list of channels is on the left-side. On a small screen :iphone: you may need to tap on the 3 horizontal bars in the top-left corner to see the menu and list of channels. Like this:
+
+<img src="images/open-list-of-channels.gif" alt="Open the list of channels on a small screen" width="300"/>
+
+Public channels have a `#` next to them. Private groups are marked by a :lock: Direct messages appear in a separate list below the others.
 
 <img src="images/public-channel-private-group.png" alt="Example of public channel and private group" width="200"/>
 
 <img src="images/DM-example.png" alt="Example of a direct message" width="200"/>
 
+
 ### Each channel has a list of _members_
 
-To see the members, tap on a channel in the list of channels to open it, and then tap on the <img src="images/members.png" alt="members" align="center" height="20"/> icon on the right-hand side.
+Everyone is a member of the `#general` channel. Other channels typically have fewer people in them. To see who is a member of a channel, open the channel by tapping on it in the list of channels on the left, and then tap on the <img src="images/members.png" alt="members" align="center" height="20"/> icon on the right-hand side.
 
 
-## Discuss business ideas
 
-### Create a public channel for your business project
+## Get feedback on your business idea
 
-:bangbang: **Everyone should create a public channel dedicated to their business proposal.** 
+### :bangbang: Everyone should create a public channel dedicated to their business proposal
 
 This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. 
 
-1. Tap on the three horizontal bars to bring up the menu on the left.
-- Click on the <img src="images/plus rocket.PNG" align="center" alt="plus" height="20"/> next to `CHANNELS`.
+1. First [open the list of channels](#open-the-list-of-channels). (On a small screen, you must tap on the three horizontal bars to bring up the menu on the left.)
+- Click on the <img src="images/plus rocket.PNG" align="center" alt="plus" height="20"/> next to the search box: <img src="images/plus-button.png" align="center" alt="Plus sign to the right of the search box" height="25"/>
 - **Choose a channel name** that 
 	- begins with `p-` so that it is easy to identify channels dedicated to **p**rojects;
-	- ends with a description of the project, with words separated by hyphens `-`, or underscores `_`.
+	- ends with a description of the project, with words separated by hyphens `-` or by underscores `_`.
 	
-	For example: `p-urban-farm` or `p-taxi_app`.
-- When you are done, press <img src="images/create-button.png" alt="the CREATE button" align="center" height="20"/>.
-
-Now your project channel is ready! :tada: 
+	For example: `p-urban-farm` or `p-taxi_app` or `p-reusable_rocket_for_space_tourism`.
+- When you are done, press <img src="images/create-button.png" alt="the CREATE button" align="center" height="20"/>. Now your project channel is ready! :tada: 
 
 ![Create a project channel](images/create-project-channel-loop.gif)
 
-**Announce your channel** by writing a message in the public channel `#general`. Everyone is a member of `#general`. Refer to your project channel with a `#` at the beginning (such as `#p-urban-farm`) so that a link to your channel is automatically created. 
+**Announce your channel** by writing a message in the public channel `#general`. Everyone is a member of `#general`. Refer to your project channel with a `#` at the beginning (such as `#p-urban-farm`) so that a link to your channel is automatically created. Like this:
 
 ![Announce a new project channel](images/announce-new-project-channel-loop.gif)
 
 By the way, use `#general` to send all kinds of announcements: about new channels you've created, ideas you want to discuss, or expertise you're searching for. 
 
-If you want to discuss a certain topic such as `#apps` or `#internet-of-things`, **create a separate public channel for it**. Announce your new channel in `#general`, and invite users by typing the command `/invite @user` in your channel. Keep off topic discussion in the channel called `#random`.
+If you want to discuss a certain topic such as `#apps` or `#internet-of-things`, **create a separate public channel for it**. Announce your new channel in `#general`.
+
+### Invite people to your channel
+
+You can invite a single person to your channel. For example, to invite `@barack.obama` to your project channel `#p-reusable_rockets_for_space_tourism`, write
+
+```
+/invite @barack.obama
+``` 
+in your channel `#p-reusable_rockets_for_space_tourism`. Now that Mr. Obama is in your channel you can ask for advice:
+> Yo @barack.obama! What do you think of the go-to-market strategy for my space tourism business? Please see the message I wrote above. :point_up: Thanks!
+
+Perhaps `@barack.obama` will have a crucial idea for improving that go-to-market strategy :bulb::bulb::sparkles:
+
+#### Invite everyone from another channel
+
+You can also invite to your channel _everyone_ who is a member of some other channel. For example, to invite everyone in the `#general` channel to your project channel `#p-reusable_rockets_for_space_tourism` (because _everyone_ has opinions on the space trip of their dreams), write
+
+```
+/invite-all-from #general
+```
+
+in your project channel. Like this: 
+
+![Invite others to a channel](images/invite-all-from.gif)
+
+:boom: Now everyone is a member of your channel and is ready to listen about your ideas. :eyes: :ear: :speech_balloon: :grinning:
 
 ### :pushpin: Pinning messages
 An important feature is **pinning messages**. We recommend that you pin the most important messages in your project channel, such as:
 
-- summaries of your business proposal;
+- summaries of parts of your business proposal;
 - questions that you have that others may help you with.
 
 When people join your project channel, they can easily understand your project by reading the pinned messages without having to scroll through the entire message history :relieved:.
 
-To pin a message:
+Here is how to pin a message:
 
 | on a smartphone :iphone: | on a computer :computer: |
 | --- | --- |
@@ -145,9 +177,7 @@ Everyone can see the pinned messages of a channel by clicking on the <img src="i
 
 ### Making your project discussion private
 
-We recommend that you keep your project channel public, but you are free to make your channels private. Your ideas should reach as many fellow entrepreneurs as possible; otherwise you won’t get the chance to find valuable contributors.
-
-If you want to continue discussion in a private group, you can either
+We recommend that you keep your project channel **public**: your ideas should reach as many fellow entrepreneurs as possible. But you are free to make your channels private. To continue discussion in a private group, you can either
 
 1. **create a new channel that is private** by turning on the switch labeled `Private` when you create the channel:
 
@@ -156,7 +186,9 @@ If you want to continue discussion in a private group, you can either
 2. or **convert a public channel to a private group**. To do so, open the channel and click on the <img src="images/info-icon.png" alt="information" align="center" height="20"/> icon in the top-right corner. Now turn on the `Private` setting.
 
 
-## Channel operations
+## Giving feedback to other people's business ideas
+
+So far, you've learned to [see the list of channels you belong to](#Open-the-list-of-channels), to [create your own channel](#:bangbang:-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to invite others to it.
 
 ### Joining a channel
 
