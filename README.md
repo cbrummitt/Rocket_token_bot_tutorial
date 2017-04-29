@@ -89,7 +89,7 @@ Conversations in Rocket.Chat are organized into **channels**. Channels are chat 
 
 ### Open the list of channels
 
-The list of channels is on the left-side. On a small screen :iphone: you may need to tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> in the top-left corner to see the menu and list of channels. Like this:
+The list of channels is on the left-side. On a small screen (such as a :iphone:) you may need to tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> in the top-left corner to see the menu and list of channels. Like this:
 
 <img src="images/open-list-of-channels.gif" alt="Open the list of channels on a small screen" width="300"/>
 
@@ -111,7 +111,7 @@ Everyone is a member of the `#general` channel. Other channels typically have fe
 
 ### :bangbang: Everyone should create a public channel dedicated to their business proposal
 
-This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. 
+This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. They may give you useful ideas :bulb::bulb::bulb: To create your own public channel:
 
 1. First [open the list of channels](#open-the-list-of-channels). (On a small screen, you must tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> to bring up the menu on the left.)
 - Click on the <img src="images/plus rocket.PNG" align="center" alt="plus" height="20"/> next to the search box: <img src="images/plus-button.png" align="center" alt="Plus sign to the right of the search box" height="25"/>
