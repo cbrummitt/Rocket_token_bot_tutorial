@@ -15,7 +15,7 @@ Why learn to use Rocket.Chat?
 So it might be useful for communication among the team in the business that you're creating. :wink:
 
 
-This tutorial has lots of tips. For the bare minimum to get started, you should [learn how to log in](#logging-into-Rocket.Chat), [understand channels](#understanding-channels), and [create a public channel dedicated to your business idea](#get-feedback-on-your-business-idea).
+This tutorial has lots of tips. For the bare minimum to get started, you should [learn how to log in](#logging-into-rocketchat), [understand channels](#understanding-channels), and [create a public channel dedicated to your business idea](#get-feedback-on-your-business-idea).
 
 ---
 
@@ -70,7 +70,7 @@ If you don’t upload a photo, your avatar will be your initials. That's OK too.
 
 ## Understanding channels
 
-Nice work logging into Rocket.Chat :clap: Now let's chat! :speech_bubble:
+Nice work logging into Rocket.Chat :clap: Now let's chat! : speech_balloon:
 
 Conversations in Rocket.Chat are organized into **channels**. Channels are chat rooms with many useful features. There are three kinds of channels: 
 
@@ -188,7 +188,7 @@ We recommend that you keep your project channel **public**: your ideas should re
 
 ## Giving feedback to other people's business ideas
 
-So far, you've learned to [see the list of channels you belong to](#Open-the-list-of-channels), to [create your own channel](#:bangbang:-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to invite others to it.
+So far, you've learned to [see the list of channels you belong to](#open-the-list-of-channels), to [create your own channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to invite others to it.
 
 ### Joining a channel
 
