@@ -301,7 +301,7 @@ To thank someone for significantly helping your business plan, you can give them
 #### Remember: 
 
 * You get **7 tokens every Sunday at midnight** :first_quarter_moon_with_face:
-* If you don't use some tokens by the following Sunday, they disappear, so be sure to give tokens to thank people who have helped your business plan.
+* If you don't use some tokens by the following Sunday, **they disappear**, so be sure to give tokens to thank people who have helped your business plan.
 
 #### Practice giving a token
 
