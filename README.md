@@ -77,16 +77,16 @@ Conversations in Rocket.Chat are organized into **channels**. Channels are chat 
 
 Think of a conversation in a public channel as a conversation you would have at a market, city square, or cafe. Everyone is free to join the conversation. Specifically, everyone can 
 
-	- **see** all public channels;
-	- **preview** the contents of all public channels;
-	- **join** any public channel.
+*  **see** all public channels;
+* **preview** the contents of all public channels;
+* **join** any public channel.
 
 ### 2. **Private Groups** are closed channels
 
 Think of it as your secret place to talk with close confidants :smirk: Only the members of a private group know that it exists and can see its contents. The person who creates a private group is the **owner**. The owner can 
 
-	* :envelope: invite people to join the private group; and
-	* :boot::arrow_heading_up: kick people out of it.
+* :envelope: invite people to join the private group; and
+* :boot::arrow_heading_up: kick people out of it.
 
 ### 3. **Direct Messages** are private, 1-on-1 conversations
 
