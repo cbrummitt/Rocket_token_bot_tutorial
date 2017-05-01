@@ -99,7 +99,7 @@ The list of channels is on the left-side. On a small screen (such as a :iphone:)
 
 <img src="images/open-list-of-channels.gif" alt="Open the list of channels on a small screen" width="300"/>
 
-Public channels have a `#` next to them. Private groups are marked by a :lock: Direct messages appear in a separate list below the others.
+Public channels have a `#` next to them. Private groups are marked by a :lock:. Direct messages appear in a separate list below the others.
 
 <img src="images/public-channel-private-group.png" alt="Example of public channel and private group" width="200"/>
 
@@ -108,7 +108,9 @@ Public channels have a `#` next to them. Private groups are marked by a :lock: D
 
 ### Each channel has a list of **members**
 
-Everyone is a member of the `#general` channel. Other channels typically have fewer people in them. To see who is a member of a channel, open the channel by tapping on it in the list of channels on the left, and then tap on the <img src="images/members.png" alt="members" align="center" height="20"/> icon on the right-hand side. The list of members has green dots next to everyone who is on Rocket.Chat at that moment:
+Everyone is a member of the `#general` channel. Other channels typically have fewer people in them.
+
+To see who is a member of a channel that you are currently viewing, tap on the <img src="images/members.png" alt="members" align="center" height="20"/> icon on the right-hand side. The list of members has green dots next to everyone who is on Rocket.Chat at that moment:
 
 <img src="images/list-of-members.png" alt="Example list of members" width="400"/>
 
