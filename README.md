@@ -298,10 +298,23 @@ To thank someone for significantly helping your business plan, you can give them
 
 <img src="images/token/give_3_user.png" alt="Example of giving three tokens" width="450" >
 
-Remember: 
+#### Remember: 
 
-* You get 7 tokens every Sunday at midnight :first_quarter_moon_with_face:
+* You get **7 tokens every Sunday at midnight** :first_quarter_moon_with_face:
 * If you don't use some tokens by the following Sunday, they disappear, so be sure to give tokens to thank people who have helped your business plan.
+
+#### Practice giving a token
+
+**Try giving a token to the** `@token` **bot!** Don't worry, the bot won't actually transfer one of your tokens. This is just for practice. :relaxed: 
+
+First, open a direct message with the token bot. To do this, type "token" in the search bar in the top-left corner (it looks like this: <img src="images/plus-button.png" align="center" alt="Search bar" height="19"/>), and then click on `@token`.
+
+![Search for 'token'](images/DM-token-bot.gif)
+
+Next, send the message `/give @token` to practice giving a token to the `@token` bot. You should get a reply from the bot telling you that it received your command:
+
+ <img src="images/token/give-to-token.png" align="center" alt="Result of giving a token to the @token bot" width="550"/>
+
 
 ### _Who has been thanked the most?_
 
