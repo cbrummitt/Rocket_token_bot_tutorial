@@ -176,7 +176,7 @@ Here is how to pin a message:
 
 | on a smartphone :iphone: | on a computer :computer: |
 | --- | --- |
-| 1. press and hold on a message to open a menu | 1. hover your mourse over a message and click on the <img src="images/gear-icon.png" alt="gear" align="center" height="20"/> icon next to the message |
+| 1. press and hold on a message to open a menu | 1. hover your mouse over a message and click on the <img src="images/gear-icon.png" alt="gear" align="center" height="20"/> icon next to the message |
 | 2. press "Pin Message" | 2. click on the pin icon <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> |
 
 Everyone can see the pinned messages of a channel by clicking on the <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> icon in the tool bar on the right.  
@@ -275,8 +275,9 @@ Giving a token to someone is a way to say
 
 At the end of the contest, venture capitalists and other investors will evaluate business plans. They will also decide which ones they want to fund. **If you hold a token given by someone whose business plan was highly rated by the investors, then that token is a lottery ticket :ticket: for a prize:** 
 
-- :airplane: :school: :briefcase: :city_sunrise: The prize is an all-expenses-paid trip to Milan :it: for a business training course at the [Business School of Bocconi University](http://www.unibocconi.eu/), one of the best business schools in Europe. The cost of this intensive course, lodging, and travel will be fully covered. There will also be an opportunity to pitch to investors in Milan. 
-- **The more you help others with their projects, the more tokens you will be given, and the more chances you have at winning this prize.**
+- :airplane: :school: :briefcase: :city_sunrise: The prize is an all-expenses-paid trip to Milan :it: for a business training course and #startup week at the [Business School of Bocconi University](http://www.sdabocconi.it/en), one of the best business schools in Europe. The cost of this intensive course, lodging, and travel will be fully covered. There will also be an opportunity to pitch to investors in Milan. 
+- There will be 50 such prizes!
+- **The more you help others with their projects, the more tokens you will be given, and the more chances you have at winning one of these 50 trips to Milan.**
 
 ### Giving tokens
 
@@ -313,7 +314,7 @@ First, open a direct message with the token bot. To do this, type "token" in the
 
 ![Search for 'token'](images/DM-token-bot.gif)
 
-Next, send the message `/give @token` to practice giving a token to the `@token` bot. You should get a reply from the bot telling you that it received your command:
+Now you can send messages directly to `@token`. Send the message `/give @token` to practice giving a token to the `@token` bot. You should get a reply from the bot telling you that it received your command:
 
  <img src="images/token/give-to-token.png" align="center" alt="Result of giving a token to the @token bot" width="550"/>
 
