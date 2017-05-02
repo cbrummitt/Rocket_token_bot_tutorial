@@ -192,13 +192,13 @@ We recommend that you keep your project channel **public**: your ideas should re
 2. or **convert a public channel to a private group**. To do so, open the channel and click on the <img src="images/info-icon.png" alt="information" align="center" height="20"/> icon in the top-right corner. Now turn on the `Private` setting.
 
 
-## Giving feedback to other people's business ideas
+## Giving feedback to other people on their business ideas
 
-So far, you've learned to [see the list of channels you belong to](#how-to-see-the-list-of-channels-that-you-belong-to), to [create your own channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to [invite others to it](#invite-people-to-your-channel). Now we'll learn to give feedback to others. This is rewarding in itself, and they may [thank you with tokens](#tokens) that could win you a trip to Milan.
+So far, you've learned to [see the list of channels you belong to](#how-to-see-the-list-of-channels-that-you-belong-to), to [create your own channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal), and to [invite others to it](#invite-people-to-your-channel). Now we'll learn to give feedback to others. Giving feedback is rewarding in itself. The people you help may also [thank you with tokens](#tokens) that could win you a trip to Milan (these "tokens" are [explained more below](#tokens)).
 
 ### Joining a channel
 
-When you [look at the list of channels on the left-hand side](#how-to-see-the-list-of-channels-that-you-belong-to), you only see the channels you are a [member of](#how-to-see-the-list-of-channels-that-you-belong-to). There may be other channels you do not yet know about. To browse channels you are not a member of: 
+When you [look at the list of channels on the left-hand side](#how-to-see-the-list-of-channels-that-you-belong-to), you only see the channels you are a [member of](#how-to-see-the-list-of-channels-that-you-belong-to). There may be other channels that you do not yet know about. To browse channels you are not a member of: 
 
 - click on the <img src="images/More channels.png" alt="More channels..." align="center" height="20"/> button in the left-hand pane (where you [see the list of channels you belong to](#how-to-see-the-list-of-channels-that-you-belong-to));
 - click on the name of a channel to preview its discussion;
@@ -267,7 +267,9 @@ To remove an emoji reaction, click on the emoji below the message. To add to an 
 
 ## Tokens
 
-:bangbang: **To acknowledge other entrepreneurs for their ideas and contributions, thank them by giving them a _token_.** Giving a token to someone is a way to say
+:bangbang: **To acknowledge other entrepreneurs for their ideas and contributions, thank them by giving them a _token_.** 
+
+Giving a token to someone is a way to say
 
 > Thank you, you have really helped me with my business plan. Let's keep this conversation going!
 
