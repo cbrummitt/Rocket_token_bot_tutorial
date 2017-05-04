@@ -69,7 +69,7 @@ If you don’t upload a photo, your avatar will be your initials. That's OK too.
 
 ## Understanding channels
 
-Nice work logging into Rocket.Chat :clap: Now let's chat! :speech_balloon:
+Nice work logging into Rocket.Chat! :clap: Now let's chat. :speech_balloon:
 
 Conversations in Rocket.Chat are organized into **channels**. Channels are chat rooms with many useful features. There are three kinds of channels: 
 
@@ -119,7 +119,7 @@ To see who is a member of a channel that you are currently viewing, tap on the <
 
 ### :bangbang: Everyone should create a public channel dedicated to their business proposal
 
-This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. They may give you useful ideas :bulb::bulb::bulb: 
+This channel lets you share your business ideas with fellow entrepreneurs and get feedback from them. They may give you useful ideas :bulb::bulb::sparkles: 
 
 To create your own public channel:
 
