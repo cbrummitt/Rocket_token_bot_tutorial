@@ -99,7 +99,9 @@ The list of channels is on the left-side. On a small screen (such as a :iphone:)
 
 <img src="images/open-list-of-channels.gif" alt="Open the list of channels on a small screen" width="300"/>
 
-Public channels have a `#` next to them. Private groups are marked by a :lock:. Direct messages appear in a separate list below the others.
+You open a channel by clicking (or tapping) on its name in this list of channels.
+
+Public channels have a `#` to the left of the name. Private groups are marked by a :lock: symbol. Direct messages appear in a separate list below the others.
 
 <img src="images/public-channel-private-group.png" alt="Example of public channel and private group" width="200"/>
 
@@ -134,9 +136,9 @@ To create your own public channel:
 
 We suggest you **write a brief summary of your business idea in your project channel** so that others can give you feedback. This community of entrepreneurs is a great opportunity to get advice and ideas. :bulb::bulb::sparkles:
 
-* First, open your channel (such as `#p-urban-farm`) by clicking on it in the blue menu on the left.
-* Write a message that briefly summarizes your business idea. You can copy and paste what you wrote for module 0 of the course. Or share whatever you are comfortable sharing.
-* Highlight what aspects of your business you would like suggestions on (such as the suppliers, or the marketing strategy).
+* First, [open your channel](#how-to-see-the-list-of-channels-that-you-belong-to) (such as `#p-urban-farm`) by clicking on it in the blue menu on the left.
+* **Write a message that briefly summarizes your business idea**. You can copy and paste what you wrote for module 0 of the course. Or share whatever you are comfortable sharing. The more you share, the more feedback and ideas people can give you.
+* **Write what aspects of your business you would like suggestions on** (such as the suppliers, or the marketing strategy).
 
 #### :pushpin: Pinning messages
 When someone first looks at your project channel, what should they read? We recommend that you **pin the most important messages in your project channel**, such as:
