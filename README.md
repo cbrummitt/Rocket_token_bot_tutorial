@@ -130,15 +130,40 @@ To create your own public channel:
 
 ![Create a project channel](images/create-project-channel-loop.gif)
 
-**Announce your channel** by writing a message in the public channel `#general`. (Remember, everyone is [a member of](#each-channel-has-a-list-of-members) `#general`.) Refer to your project channel with a `#` at the beginning (such as `#p-urban-farm`) so that a link to your channel is automatically created. Like this:
+### Write about your business idea in your project channel
+
+We suggest you **write a brief summary of your business idea in your project channel** (`p-your-project-name`) so that others can give you feedback. This community of entrepreneurs is a great opportunity to get advice and ideas. :bulb::bulb::sparkles:
+
+* Copy and paste what you wrote for module 0 of the course. Or share whatever you are comfortable sharing.
+* Highlight what aspects of your business you would like suggestions on (such as the suppliers, or the marketing strategy).
+
+#### :pushpin: Pinning messages
+When someone first looks at your project channel, what should they read? We recommend that you **pin the most important messages in your project channel**, such as:
+
+- summaries of parts of your business proposal;
+- questions that you have that others may help you with.
+
+When people join your project channel, they can easily understand your project by reading the pinned messages without having to scroll through the entire message history :relieved:.
+
+To pin a message:
+
+| on a smartphone :iphone: | on a computer :computer: |
+| --- | --- |
+| 1. press and hold on a message to open a menu | 1. hover your mouse over a message and click on the <img src="images/gear-icon.png" alt="gear" align="center" height="20"/> icon next to the message |
+| 2. press "Pin Message" | 2. click on the pin icon <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> |
+
+Everyone can see the pinned messages of a channel by clicking on the <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> icon in the tool bar on the right.  
+
+
+### Announce your channel 
+
+Now that your project channel has a description of your business idea, let's announce it to the community. Write a message in the public channel `#general`. (Remember, everyone is [a member of](#each-channel-has-a-list-of-members) `#general`.) Refer to your project channel with a `#` at the beginning (such as `#p-urban-farm`) so that a link to your channel is automatically created, and people can click on `#p-urban-farm` to open your channel. Like this:
 
 ![Announce a new project channel](images/announce-new-project-channel-loop.gif)
 
-By the way, use `#general` to send all kinds of announcements: about new channels you've created, ideas you want to discuss, or expertise you're searching for. 
+By the way, use `#general` to send all kinds of announcements: about new channels you've created, ideas you want to discuss, or expertise you're searching for. If you want to discuss a certain topic such as `#apps` or `#internet-of-things`, **create a separate public channel for it**, and announce your new channel in `#general`.
 
-If you want to discuss a certain topic such as `#apps` or `#internet-of-things`, **create a separate public channel for it**. Announce your new channel in `#general`.
-
-### Invite people to your channel
+#### Invite people to your channel
 
 You can invite a single person to your channel. For example, to invite `@barack.obama` to your project channel `#p-reusable_rockets_for_space_tourism`, write
 
@@ -163,23 +188,6 @@ in your project channel. Like this:
 ![Invite others to a channel](images/invite-all-from.gif)
 
 :boom: Now everyone is a member of your channel and is ready to give you feedback about your business idea. :speech_balloon: :grinning:
-
-### :pushpin: Pinning messages
-An important feature is **pinning messages**. We recommend that you pin the most important messages in your project channel, such as:
-
-- summaries of parts of your business proposal;
-- questions that you have that others may help you with.
-
-When people join your project channel, they can easily understand your project by reading the pinned messages without having to scroll through the entire message history :relieved:.
-
-Here is how to pin a message:
-
-| on a smartphone :iphone: | on a computer :computer: |
-| --- | --- |
-| 1. press and hold on a message to open a menu | 1. hover your mouse over a message and click on the <img src="images/gear-icon.png" alt="gear" align="center" height="20"/> icon next to the message |
-| 2. press "Pin Message" | 2. click on the pin icon <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> |
-
-Everyone can see the pinned messages of a channel by clicking on the <img src="images/pin-icon.png" alt="pin icon" align="center" height="20"/> icon in the tool bar on the right.  
 
 ### Making your project discussion private
 
