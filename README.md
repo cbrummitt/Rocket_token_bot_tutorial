@@ -58,7 +58,7 @@ To access Rocket.Chat through any web browser (such as Chrome, Firefox, or Safar
 We suggest you add a profile picture so that others can associate a face (or a business logo) to your name. Here's how:
 
 - First open the settings:
-	- :iphone: On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu. Tap on your name on the top; it looks like <img src="images/initials.png" alt="Name" align="center" height="20"/>
+	- :iphone: On the mobile app, tap on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="20"/> in the top-left corner to open the main menu. Tap on your name on the top; it looks like <img src="images/initials.png" alt="Name" align="center" height="20"/>
 	- :computer: On a desktop app or browser, click on your name in the top-left corner; it looks like <img src="images/initials.png" alt="Name" align="center" height="20"/>
 - Click on on <img src="images/my-account.png" alt="My Account" align="center" height="20"/>, then click on `Avatar`.
 - To upload a picture, click on `Select file` and choose a picture from your phone or computer. 
@@ -95,7 +95,7 @@ Think of a Direct Message as a private group with only two members: it is a secr
 
 ### How to see the list of channels that you belong to
 
-The list of channels is on the left-side. On a small screen (such as a :iphone:) you may need to tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> in the top-left corner to see the menu and list of channels. Like this:
+The list of channels is on the left-side. On a small screen (such as a :iphone:) you may need to tap on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="20"/> in the top-left corner to see the menu and list of channels. Like this:
 
 <img src="images/open-list-of-channels.gif" alt="Open the list of channels on a small screen" width="300"/>
 
@@ -123,7 +123,7 @@ This channel lets you share your business ideas with fellow entrepreneurs and ge
 
 To create your own public channel:
 
-1. First [open the list of channels](#how-to-see-the-list-of-channels-that-you-belong-to). (On a small screen, you must tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> to bring up the menu on the left.)
+1. First [open the list of channels](#how-to-see-the-list-of-channels-that-you-belong-to). (On a small screen, you must tap on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="20"/> to bring up the menu on the left.)
 1. Click on the <img src="images/plus rocket.PNG" align="center" alt="plus" height="20"/> next to the search box: <img src="images/plus-button.png" align="center" alt="Plus sign to the right of the search box" height="25"/>
 1. **Choose a channel name** that begins with `p-` so that it is easy to identify channels dedicated to **p**rojects. The rest of the channel's name should describe your business idea, with words separated by hyphens `-` or by underscores `_`. For example: `p-urban-farm` or `p-taxi_app` or `p-reusable_rocket_for_space_tourism`.
 1. When you are done, press <img src="images/create-button.png" alt="the CREATE button" align="center" height="20"/>. Now your project channel is ready! :tada: 
@@ -218,7 +218,7 @@ You may realize after joining a channel that you are no longer interested in it.
 
 | action | meaning | how to do it on a smartphone :iphone: | how to do it on a computer :computer: |
 | --- | --- | --- | --- |
-| **hide** a channel <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> | remove it from your list, but remain a member of the channel  | tap on the <img src="images/three-bars.png" alt="three horizontal bars" align="center" height="20"/> in the top-left corner to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> |
+| **hide** a channel <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> | remove it from your list, but remain a member of the channel  | tap on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="20"/> in the top-left corner to see the list of open channels, hold down on the channel name to bring up the buttons, and click on the <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> button | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/hide-icon.png" alt="eyeball" align="center" height="20"/> |
 | **leave** a channel <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> | remove it from your list and remove yourself as a member | enter the message `/leave` or `/part` in the channel | hover your mouse over the channel in the list of channels on the left-hand side, and click on <img src="images/leave-icon.png" alt="right arrow" align="center" height="20"/> |
 
 
@@ -427,8 +427,8 @@ If you belong to multiple servers on Rocket.Chat (such as `demo.rocket.chat` and
 If you ever want to change your password, do the following:
 
 - Open the main menu. 
-	- :iphone: On the mobile app, tap on the three horizontal lines in the top-left corner to open the main menu
-	- :computer: On the desktop app, make sure the window is large enough to see the list of channels on the left side; otherwise, click on the three horizontal lines in the top-left corner.
+	- :iphone: On the mobile app, tap on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="20"/> in the top-left corner to open the main menu
+	- :computer: On the desktop app, make sure the window is large enough to see the list of channels on the left side; otherwise, click on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="20"/> in the top-left corner.
 - Click on your username
 - Click on <img src="images/my-account.png" alt="My Account" align="center" height="20"/>
 - Click on `Profile`
