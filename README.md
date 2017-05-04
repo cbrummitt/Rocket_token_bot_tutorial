@@ -65,7 +65,7 @@ We suggest you add a profile picture so that others can associate a face (or a b
 
 Now you should see your :grinning: in the top-left corner, like this: <img src="images/avatar.png" alt="Avatar" align="center" height="20"/> :grin: :tada: 
 
-If you don’t upload a photo, your avatar will be your initials. That's OK too. :simple_smile:
+If you don’t upload a photo, your avatar will be your initials. That's OK too. :smile:
 
 ## Understanding channels
 
