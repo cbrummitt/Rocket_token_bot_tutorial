@@ -132,9 +132,10 @@ To create your own public channel:
 
 ### Write about your business idea in your project channel
 
-We suggest you **write a brief summary of your business idea in your project channel** (`p-your-project-name`) so that others can give you feedback. This community of entrepreneurs is a great opportunity to get advice and ideas. :bulb::bulb::sparkles:
+We suggest you **write a brief summary of your business idea in your project channel** so that others can give you feedback. This community of entrepreneurs is a great opportunity to get advice and ideas. :bulb::bulb::sparkles:
 
-* Copy and paste what you wrote for module 0 of the course. Or share whatever you are comfortable sharing.
+* First, open your channel (such as `#p-urban-farm`) by clicking on it in the blue menu on the left.
+* Write a message that briefly summarizes your business idea. You can copy and paste what you wrote for module 0 of the course. Or share whatever you are comfortable sharing.
 * Highlight what aspects of your business you would like suggestions on (such as the suppliers, or the marketing strategy).
 
 #### :pushpin: Pinning messages
