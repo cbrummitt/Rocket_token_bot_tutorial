@@ -239,7 +239,7 @@ Type messages in the message box and press <kbd>&#x23ce;</kbd> (<kbd>Enter</kbd>
 
 ### Mention `@someone` to get their attention :wave:
 
-To get someone’s attention, type `@` followed by their username, for example `@Barack.Obama`. (Rocket.Chat automatically completes someone's username as you type it.) Then your friend `@Barack.Obama` will see a red badge on the channel and will be notified via email or his mobile device.
+To get someone’s attention, type `@` followed by their username, for example `@barack.obama`. (Rocket.Chat automatically completes someone's username as you type it.) Then your friend `@barack.obama` will see a red badge on the channel and will be notified via email or his mobile device.
  
 To notify everyone in a channel, write `@all`. But remember, `@all`  notifies _everyone_! Mentioning `@all` can be useful for important announcements. But it can be distracting, so use `@all` sparingly.
 
@@ -352,7 +352,7 @@ To find out, send the message
 /status
 ```
 
-in a public channel or in a direct message to the `@token` bot. Then the bot sends you a direct message that summarizes the number of tokens you have left to give, whom you have thanked with tokens, and who has thanked you with tokens.
+in a public channel or in a direct message to the `@token` bot. Then the bot sends you a [direct message](#3-direct-messages-are-private-1-on-1-conversations) that summarizes the number of tokens you have left to give, whom you have thanked with tokens, and who has thanked you with tokens.
 
 Here is an example:
 
@@ -363,6 +363,20 @@ Here is an example:
 More details on how to send, receive, and check the status of tokens is available in [this token-bot user guide](https://github.com/cbrummitt/token-allowance-bot/wiki/@token-bot-cheat-sheet).
 
 ## Advanced Rocket.Chat skills
+
+### Notifications
+
+Rocket.Chat can notify you when someone [mentions your username](#mention-someone-to-get-their-attention-wave) or sends you a [direct message](#3-direct-messages-are-private-1-on-1-conversations).
+
+For example, suppose your username is `@barack.obama`. When someone writes `@barack.obama` somewhere in a message, Rocket.Chat sends you an email and a push notification to your mobile app, even if you are not logged into Rocket.Chat.
+
+To change your notification settings, click on the <img src="images/notifications_icon.png" align="center" alt="notifications icon" height="19"/> in the top-right corner. Here, you can choose what kinds of notifications you want on your **Desktop** computer or **Mobile** device. For example, to be notified of _every_ message on Rocket.Chat (rather than just the ones that mention you), click on the <img src="images/pencil.png" align="center" alt="pencil icon" height="19"/> next to **Mobile** and choose **All messages**:
+
+![Notifications mobile settings](images/notifications-expand-mobile.png)
+
+#### Highlight words
+
+If you want to be notified whenever someone mentions a certain phrase (such as "marketing"), make that phrase a **highlight word**. You configure this in your account settings. To reach that on a mobile phone, first tap on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="19"/> in the top-left corner. Then tap/click on your name, then tap/click on <img src="images/my-account.png" alt="My Account" align="center" height="19"/>. Now you should see a "Preferences" window. Scroll down to the section labeled HIGHLIGHTS. In the text box next to "Highlight words", write the text you want to trigger notifications, such as `marketing,IoT,Android`.
 
 ### :mag: Search messages
 
