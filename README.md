@@ -219,7 +219,7 @@ When you [look at the list of channels on the left-hand side](#how-to-see-the-li
 
 You may join a lot of channels. To organize them, we recommend you **favorite** (or **star**) channels, private groups, and DMs. 
 
-To favorite a channel, click on the star icon in the upper left hand corner of the message area (next to the room name). It looks like this: <img src="images/unstarred-channel.png" align="center" alt="Example of an unstarred channel" height="18"/>  Then the star becomes yellow: <img src="images/starred-channel.png" alt="Example of a starred channel" align="center" height="18"/> Nice, now the channel conveniently appear under the list of **Favorites** in the left-hand pane:
+To favorite a channel, click on the star icon in the upper left hand corner of the message area (next to the room name). It looks like this: <img src="images/unstarred-channel.png" align="center" alt="Example of an unstarred channel" height="18"/>.  Then the star becomes yellow: <img src="images/starred-channel.png" alt="Example of a starred channel" align="center" height="18"/>. Now the channel conveniently appear under the list of **Favorites** in the left-hand menu:
 
 <img src="images/favorites-list.png" alt="Favorite channels" width="130"/>
 
@@ -241,13 +241,13 @@ Type messages in the message box and press <kbd>&#x23ce;</kbd> (<kbd>Enter</kbd>
 
 To get someone’s attention, type `@` followed by their username, for example `@Barack.Obama`. (Rocket.Chat automatically completes someone's username as you type it.) Then your friend `@Barack.Obama` will see a red badge on the channel and will be notified via email or his mobile device.
  
-To notify everyone in a channel, write `@all`. But remember, `@all`  notifies _everyone_! It can be useful for important announcements. But it can be distracting if abused, so use `@all` sparingly.
+To notify everyone in a channel, write `@all`. But remember, `@all`  notifies _everyone_! Mentioning `@all` can be useful for important announcements. But it can be distracting, so use `@all` sparingly.
 
 ### Referring to previous messages :point_up_2:
 
 To refer to a previous message in a conversation, you can grab a link to a certain message:
 
-- :computer: On the desktop app, hover the mouse over a message, click on the gear icon <img src="images/gear-icon.png" alt="gear icon" align="center" width="20"/>, and click on the link <img src="images/link-icon.png" alt="link icon" align="center" height="20"/>. 
+- :computer: On the desktop app, hover the mouse over a message, click on the gear icon <img src="images/gear-icon.png" alt="gear icon" align="center" width="20"/>, and click on the link icon <img src="images/link-icon.png" alt="link icon" align="center" height="20"/>. 
 - :iphone: On the mobile app, press and hold on a message, click on `Permalink`. 
 
 This copies to your clipboard a link to that message. Paste that link into a new message to create a clickable link and a preview to the old message.
@@ -264,11 +264,11 @@ You can also type your desired emoji by wrapping its name with `:`. For example,
 
 You can also _react_ to a message with an emoji. 
 
- - On the **desktop** application: hover over a message, click on the gear icon <img src="images/gear-icon.png" align="center" alt="gear icon" width="20"/>, click on the smiling face icon
+ - :computer: On the desktop app, hover over a message, click on the gear icon <img src="images/gear-icon.png" align="center" alt="gear icon" width="20"/>, click on the smiling face icon
 
 	<img src="images/emoji-reaction.png" align="center" alt="How to choose an emoji reaction" height="50"/>
 	
- - On the **mobile** application: press and hold your finger on a message to bring up a menu, press `Reactions`
+ - :iphone: On the mobile app, press and hold your finger on a message to bring up a menu, press `Reactions`
 
 Then choose an emoji from the emoji picker, and the emoji appears below the message: 
 
@@ -333,8 +333,11 @@ Now you can send messages directly to `@token`. Send the message `/give @token` 
 ### _Who has been thanked the most?_
 
 To find out, send the message 
-```/leaderboard
+
 ```
+/leaderboard
+```
+
 in a public channel or in a direct message with the `@token` bot. Then the `@token` bot responds to you in a direct message:
 
 <img src="images/token/leaderboard.png" align="center" alt="leaderboard" height="325"/>
