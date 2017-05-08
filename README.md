@@ -37,7 +37,7 @@ You can access Rocket.Chat through an app or in any web browser (Chrome, Firefox
 
 ### Rocket.Chat app :iphone: :computer: :rocket: :stars: 
 
-We recommend you use a Rocket.Chat app on your phone or computer, so that it's easy to access it and to get notifications. To get started:
+We recommend you use a Rocket.Chat app on your phone or computer, so that it's easy to access it and to get [notifications](#notifications). To get started:
 
 1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want (Android, iOS, Mac, Windows, Linux).
 2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `server-name.rocket.chat` but with `server-name` replaced by a word; look for that word in the email we sent you. Press <kbd>CONNECT</kbd>.
