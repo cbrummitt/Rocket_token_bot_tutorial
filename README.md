@@ -97,7 +97,9 @@ Think of a Direct Message as a private group with only two members: it is a secr
 
 The list of channels is on the left-side. On a small screen (such as a :iphone:) you may need to tap on the <img src="images/three-bars.png" alt="three horizontal lines" align="center" height="20"/> in the top-left corner to see the menu and list of channels. Like this:
 
-<img src="images/open-list-of-channels.gif" alt="Open the list of channels on a small screen" width="300"/>
+<video autoplay="autoplay" loop="loop" width="400" height="300">
+  <source src="images/open-list-of-channels.mp4" type="video/mp4" />
+  <img src="images/open-list-of-channels.gif" width="400" height="300" /></video>
 
 You open a channel by clicking (or tapping) on its name in this list of channels.
 
@@ -130,7 +132,9 @@ To create your own public channel:
 1. **Choose a channel name** that begins with `p-` so that it is easy to identify channels dedicated to **p**rojects. The rest of the channel's name should describe your business idea, with words separated by hyphens `-` or by underscores `_`. For example: `p-urban-farm` or `p-taxi_app` or `p-reusable_rocket_for_space_tourism`.
 1. When you are done, press <img src="images/create-button.png" alt="the CREATE button" align="center" height="20"/>. Now your project channel is ready! :tada: 
 
-![Create a project channel](images/create-project-channel-loop.gif)
+<video autoplay="autoplay" loop="loop" width="600" height="400">
+  <source src="images/create-project-channel-loop.mp4" type="video/mp4" />
+  <img src="images/create-project-channel-loop.gif" width="600" height="400" /></video>
 
 ### Write about your business idea in your project channel
 
@@ -162,7 +166,9 @@ Everyone can see the pinned messages of a channel by clicking on the <img src="i
 
 Now that your project channel has a description of your business idea, let's announce it to the community. Write a message in the public channel `#general`. (Remember, everyone is [a member of](#each-channel-has-a-list-of-members) `#general`.) Refer to your project channel with a `#` at the beginning (such as `#p-urban-farm`) so that a link to your channel is automatically created, and people can click on `#p-urban-farm` to open your channel. Like this:
 
-![Announce a new project channel](images/announce-new-project-channel-loop.gif)
+<video autoplay="autoplay" loop="loop" width="600" height="300">
+  <source src="images/announce-new-project-channel-loop.mp4" type="video/mp4" />
+  <img src="images/announce-new-project-channel-loop.gif" width="600" height="300" /></video>
 
 By the way, use `#general` to send all kinds of announcements: about new channels you've created, ideas you want to discuss, or expertise you're searching for. If you want to discuss a certain topic such as `#apps` or `#internet-of-things`, **create a separate public channel for it**, and announce your new channel in `#general`.
 
@@ -188,7 +194,9 @@ You can also invite to your channel _everyone_ who is a member of some other cha
 
 in your project channel. Like this: 
 
-![Invite others to a channel](images/invite-all-from.gif)
+<video autoplay="autoplay" loop="loop" width="500" height="300">
+  <source src="images/invite-all-from.mp4" type="video/mp4" />
+  <img src="images/invite-all-from.gif" width="500" height="300" /></video>
 
 :boom: Now everyone is a member of your channel and is ready to give you feedback about your business idea. :speech_balloon: :grinning:
 
@@ -323,7 +331,9 @@ To thank someone for significantly helping your business plan, you can give them
 
 First, open a direct message with the token bot. To do this, type "token" in the search bar in the top-left corner (it looks like this: <img src="images/plus-button.png" align="center" alt="Search bar" height="19"/>), and then click on `@token`.
 
-![Search for 'token'](images/DM-token-bot.gif)
+<video autoplay="autoplay" loop="loop" width="500" height="200">
+  <source src="images/DM-token-bot.mp4" type="video/mp4" />
+  <img src="images/DM-token-bot.gif" width="500" height="200" /></video>
 
 Now you can send messages directly to `@token`. Send the message `/give @token` to practice giving a token to the `@token` bot. You should get a reply from the bot telling you that it received your command:
 
