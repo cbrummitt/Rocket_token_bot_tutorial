@@ -21,7 +21,7 @@ So it might be useful for communication among the team in the business that you'
 1. You can use Rocket.Chat in a web browser or in a [Rocket.Chat app](https://rocket.chat/download) on a smartphone or computer.
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
 1. We suggest you [create your own public channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal) to get feedback on your business idea. Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. [:pushpin: Pin](#pushpin-pinning-messages) your most important messages so that people can quickly understand your business project and help improve it.
-1. Find other projects and try to help them with their business ideas. They may thank you with a token that could win you a prize! :money_with_wings:
+1. [Give feedback on other peoples' business ideas](#giving-feedback-to-other-people-on-their-business-ideas). They may thank you with a token that could win you a prize! :money_with_wings:
 1. Reward entrepreneurs who have given the most useful comments on your business idea by [giving them tokens](#tokens). 
 1. Create public channels for general topics that you want to discuss with others, such as `#apps` and `#marketing`. Announce the channel to everyone in `#general`.
 1. [Mention](#mention-someone-to-get-their-attention-wave) other users by writing `@name` to notify them. Use [emojis](#say-it-with-an-emoji-grin). :smiley: :sparkles: :tada:
