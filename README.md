@@ -292,7 +292,7 @@ Giving a token to someone is a way to say
 
 > Thank you, you have really helped me with my business plan. Let's keep this conversation going!
 
-At the end of the contest, venture capitalists and other investors will evaluate business plans. They will also decide which ones they want to fund. **If you hold a token given by someone whose business plan was rated among the top proposals, then that token gives you a chance at winning the trip to Milan** (described below). The more tokens from top-35 entrepreneurs you hold, the better your chances are. 
+At the end of the contest, venture capitalists and other investors will evaluate business plans. They will also decide which ones they want to fund. **If you hold a token given by someone whose business plan was rated among the top proposals, then that token gives you a chance at winning the trip to Milan** (described below). The more tokens you hold from entrepreneurs with top-rated proposals, the better your chances are.
 
 ### The trip to Milan :airplane: :school: :briefcase: :city_sunrise:
  The prize is an all-expenses-paid trip to Milan :it: for a business training course and #startup week at the [Business School of Bocconi University](http://www.sdabocconi.it/en), one of the best business schools in Europe. The cost of this intensive course, lodging, and travel will be fully covered. There will also be an opportunity to pitch to investors in Milan. 
