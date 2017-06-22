@@ -18,7 +18,7 @@ So it might be useful for communication among the team in the business that you'
 
 ## :fast_forward: Key takeaways
 
-1. You can use Rocket.Chat in a web browser or in a [Rocket.Chat app](https://rocket.chat/download) on a smartphone or computer.
+1. You can use Rocket.Chat in a web browser or in a [Rocket.Chat app](https://rocket.chat/download) on a smartphone or computer. We recommend using Rocket.Chat (on [iOS](https://itunes.apple.com/app/rocket-chat/id1028869439) and [Android](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat)); the newer version Rocket.Chat+ is still missing a couple important features.
 1. [Public channels](#understanding-channels) are like a coffeeshop or a market: a public place to meet and discuss. [Private groups](#understanding-channels) are like a secret meeting with your closest advisors.
 1. We suggest you [create your own public channel](#bangbang-everyone-should-create-a-public-channel-dedicated-to-their-business-proposal) to get feedback on your business idea. Put `p-` at the beginning of the channel name to mark it as a **p**roject. Give the channel a descriptive name such as `p-urban-farm`. [:pushpin: Pin](#pushpin-pinning-messages) your most important messages so that people can quickly understand your business project and help improve it.
 1. [Give feedback on other peoples' business ideas](#giving-feedback-to-other-people-on-their-business-ideas). They may thank you with a token that could win you a prize! :money_with_wings:
@@ -39,7 +39,7 @@ You can access Rocket.Chat through an app or in any web browser (Chrome, Firefox
 
 We recommend you use a Rocket.Chat app on your phone or computer, so that it's easy to access it and to get [notifications](#notifications). To get started:
 
-1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want (Android, iOS, Mac, Windows, Linux).
+1. [:arrow_down: Download Rocket.Chat](https://rocket.chat/download) on as many devices as you want. Click on these links to download Rocket.Chat for [Android](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat), [iOS](https://itunes.apple.com/app/rocket-chat/id1028869439), [Mac](https://itunes.apple.com/app/rocket.chat/id1086818840), [Windows](https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/2.7.0/rocketchat-desktop-setup-2.7.0.exe), or [Linux](https://rocket.chat/download). We recommend using the app called Rocket.Chat on [iOS](https://itunes.apple.com/app/rocket-chat/id1028869439) and [Android](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat) rather the newer version Rocket.Chat+, which is still missing a couple important features. Blackberry users: unfortunately there's no app, but you can still access Rocket through a web browser; the experience is basically the same.
 2. Open the app and **enter the server name** that we sent to you via email. The server name looks like `https://adansonia-xyz.rocket.chat` but with `xyz` replaced by a word; look for that word in the email we sent you. (That word that has something to do with trees.) Press <kbd>CONNECT</kbd>.
 3. Enter the **username and password** that were sent to you in an email, and press <kbd>LOGIN</kbd>. 
 
