@@ -420,7 +420,7 @@ If you want to change the name of your channel (say, from `#p-urban-farm-nairobi
 2. **Click on the information icon** <img src="images/info-icon.png" alt="information" align="center" height="17"/> in the top-right corner.
 3. **Click or tap on the name of the channel**. (On a computer :computer: you can alternatively hover your mouse over the name of the channel and click on the pencil icon <img src="images/pencil.png" alt="pencil icon" align="center" height="17"/>.) Now you can **edit the name and hit the :heavy_check_mark: button to save the change**. A message will be sent in the channel that confirms that the channel's name was changed.
 
-<img src="images/how_to_edit_channel_name.png" alt="Steps for editing the name of a channel" width="250"/>
+<img src="images/how_to_edit_channel_name.png" alt="Steps for editing the name of a channel" width="300"/>
 
 ### :pencil2: Editing messages 
 
